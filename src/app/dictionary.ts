@@ -1,0 +1,6796 @@
+export const dictionary = [{
+  word: 'the',
+  freq: '9243'
+}, {
+  word: 'of',
+  freq: '5220'
+}, {
+  word: 'and',
+  freq: '5196'
+}, {
+  word: 'to',
+  freq: '4951'
+}, {
+  word: 'a',
+  freq: '4506'
+}, {
+  word: 'in',
+  freq: '2822'
+}, {
+  word: 'is',
+  freq: '2699'
+}, {
+  word: 'you',
+  freq: '2041'
+}, {
+  word: 'are',
+  freq: '1843'
+}, {
+  word: 'for',
+  freq: '1752'
+}, {
+  word: 'that',
+  freq: '1743'
+}, {
+  word: 'or',
+  freq: '1487'
+}, {
+  word: 'it',
+  freq: '1386'
+}, {
+  word: 'as',
+  freq: '1363'
+}, {
+  word: 'be',
+  freq: '1145'
+}, {
+  word: 'on',
+  freq: '1087'
+}, {
+  word: 'your',
+  freq: '1067'
+}, {
+  word: 'with',
+  freq: '1062'
+}, {
+  word: 'can',
+  freq: '895'
+}, {
+  word: 'have',
+  freq: '891'
+}, {
+  word: 'this',
+  freq: '864'
+}, {
+  word: 'an',
+  freq: '754'
+}, {
+  word: 'by',
+  freq: '706'
+}, {
+  word: 'not',
+  freq: '658'
+}, {
+  word: 'but',
+  freq: '626'
+}, {
+  word: 'at',
+  freq: '624'
+}, {
+  word: 'from',
+  freq: '622'
+}, {
+  word: 'I',
+  freq: '621'
+}, {
+  word: 'they',
+  freq: '617'
+}, {
+  word: 'more',
+  freq: '597'
+}, {
+  word: 'will',
+  freq: '577'
+}, {
+  word: 'if',
+  freq: '546'
+}, {
+  word: 'some',
+  freq: '501'
+}, {
+  word: 'there',
+  freq: '470'
+}, {
+  word: 'what',
+  freq: '461'
+}, {
+  word: 'about',
+  freq: '451'
+}, {
+  word: 'which',
+  freq: '449'
+}, {
+  word: 'when',
+  freq: '442'
+}, {
+  word: 'one',
+  freq: '441'
+}, {
+  word: 'their',
+  freq: '439'
+}, {
+  word: 'all',
+  freq: '438'
+}, {
+  word: 'also',
+  freq: '419'
+}, {
+  word: 'how',
+  freq: '412'
+}, {
+  word: 'many',
+  freq: '397'
+}, {
+  word: 'do',
+  freq: '389'
+}, {
+  word: 'has',
+  freq: '384'
+}, {
+  word: 'most',
+  freq: '378'
+}, {
+  word: 'people',
+  freq: '372'
+}, {
+  word: 'other',
+  freq: '369'
+}, {
+  word: 'time',
+  freq: '369'
+}, {
+  word: 'so',
+  freq: '352'
+}, {
+  word: 'was',
+  freq: '352'
+}, {
+  word: 'we',
+  freq: '352'
+}, {
+  word: 'these',
+  freq: '344'
+}, {
+  word: 'may',
+  freq: '336'
+}, {
+  word: 'like',
+  freq: '324'
+}, {
+  word: 'use',
+  freq: '319'
+}, {
+  word: 'into',
+  freq: '301'
+}, {
+  word: 'than',
+  freq: '301'
+}, {
+  word: 'up',
+  freq: '296'
+}, {
+  word: 'out',
+  freq: '294'
+}, {
+  word: 'who',
+  freq: '281'
+}, {
+  word: 'them',
+  freq: '269'
+}, {
+  word: 'make',
+  freq: '262'
+}, {
+  word: 'because',
+  freq: '248'
+}, {
+  word: 'such',
+  freq: '236'
+}, {
+  word: 'through',
+  freq: '235'
+}, {
+  word: 'get',
+  freq: '233'
+}, {
+  word: 'work',
+  freq: '224'
+}, {
+  word: 'even',
+  freq: '223'
+}, {
+  word: 'different',
+  freq: '215'
+}, {
+  word: 'its',
+  freq: '215'
+}, {
+  word: 'no',
+  freq: '213'
+}, {
+  word: 'our',
+  freq: '213'
+}, {
+  word: 'new',
+  freq: '210'
+}, {
+  word: 'film',
+  freq: '209'
+}, {
+  word: 'just',
+  freq: '208'
+}, {
+  word: 'only',
+  freq: '208'
+}, {
+  word: 'see',
+  freq: '204'
+}, {
+  word: 'used',
+  freq: '204'
+}, {
+  word: 'good',
+  freq: '201'
+}, {
+  word: 'water',
+  freq: '201'
+}, {
+  word: 'been',
+  freq: '200'
+}, {
+  word: 'need',
+  freq: '193'
+}, {
+  word: 'should',
+  freq: '191'
+}, {
+  word: 'very',
+  freq: '191'
+}, {
+  word: 'any',
+  freq: '190'
+}, {
+  word: 'history',
+  freq: '187'
+}, {
+  word: 'often',
+  freq: '187'
+}, {
+  word: 'way',
+  freq: '185'
+}, {
+  word: 'well',
+  freq: '184'
+}, {
+  word: 'art',
+  freq: '183'
+}, {
+  word: 'know',
+  freq: '181'
+}, {
+  word: 'were',
+  freq: '180'
+}, {
+  word: 'then',
+  freq: '179'
+}, {
+  word: 'my',
+  freq: '177'
+}, {
+  word: 'first',
+  freq: '176'
+}, {
+  word: 'would',
+  freq: '176'
+}, {
+  word: 'money',
+  freq: '174'
+}, {
+  word: 'each',
+  freq: '173'
+}, {
+  word: 'over',
+  freq: '170'
+}, {
+  word: 'world',
+  freq: '169'
+}, {
+  word: 'information',
+  freq: '168'
+}, {
+  word: 'map',
+  freq: '167'
+}, {
+  word: 'find',
+  freq: '166'
+}, {
+  word: 'where',
+  freq: '166'
+}, {
+  word: 'much',
+  freq: '165'
+}, {
+  word: 'take',
+  freq: '164'
+}, {
+  word: 'two',
+  freq: '164'
+}, {
+  word: 'want',
+  freq: '163'
+}, {
+  word: 'important',
+  freq: '160'
+}, {
+  word: 'family',
+  freq: '159'
+}, {
+  word: 'those',
+  freq: '156'
+}, {
+  word: 'example',
+  freq: '147'
+}, {
+  word: 'while',
+  freq: '147'
+}, {
+  word: 'he',
+  freq: '144'
+}, {
+  word: 'look',
+  freq: '144'
+}, {
+  word: 'government',
+  freq: '143'
+}, {
+  word: 'before',
+  freq: '141'
+}, {
+  word: 'help',
+  freq: '141'
+}, {
+  word: 'between',
+  freq: '137'
+}, {
+  word: 'go',
+  freq: '131'
+}, {
+  word: 'own',
+  freq: '130'
+}, {
+  word: 'however',
+  freq: '128'
+}, {
+  word: 'business',
+  freq: '127'
+}, {
+  word: 'us',
+  freq: '127'
+}, {
+  word: 'great',
+  freq: '126'
+}, {
+  word: 'his',
+  freq: '125'
+}, {
+  word: 'being',
+  freq: '124'
+}, {
+  word: 'another',
+  freq: '123'
+}, {
+  word: 'health',
+  freq: '122'
+}, {
+  word: 'same',
+  freq: '120'
+}, {
+  word: 'study',
+  freq: '118'
+}, {
+  word: 'why',
+  freq: '118'
+}, {
+  word: 'few',
+  freq: '117'
+}, {
+  word: 'game',
+  freq: '117'
+}, {
+  word: 'might',
+  freq: '116'
+}, {
+  word: 'think',
+  freq: '116'
+}, {
+  word: 'free',
+  freq: '115'
+}, {
+  word: 'too',
+  freq: '114'
+}, {
+  word: 'had',
+  freq: '113'
+}, {
+  word: 'hi',
+  freq: '113'
+}, {
+  word: 'right',
+  freq: '113'
+}, {
+  word: 'still',
+  freq: '112'
+}, {
+  word: 'system',
+  freq: '111'
+}, {
+  word: 'after',
+  freq: '110'
+}, {
+  word: 'computer',
+  freq: '109'
+}, {
+  word: 'best',
+  freq: '108'
+}, {
+  word: 'must',
+  freq: '108'
+}, {
+  word: 'her',
+  freq: '107'
+}, {
+  word: 'life',
+  freq: '107'
+}, {
+  word: 'since',
+  freq: '107'
+}, {
+  word: 'could',
+  freq: '105'
+}, {
+  word: 'does',
+  freq: '104'
+}, {
+  word: 'now',
+  freq: '104'
+}, {
+  word: 'during',
+  freq: '103'
+}, {
+  word: 'learn',
+  freq: '102'
+}, {
+  word: 'around',
+  freq: '101'
+}, {
+  word: 'usually',
+  freq: '101'
+}, {
+  word: 'form',
+  freq: '99'
+}, {
+  word: 'meat',
+  freq: '99'
+}, {
+  word: 'air',
+  freq: '98'
+}, {
+  word: 'day',
+  freq: '98'
+}, {
+  word: 'place',
+  freq: '98'
+}, {
+  word: 'become',
+  freq: '97'
+}, {
+  word: 'number',
+  freq: '97'
+}, {
+  word: 'public',
+  freq: '97'
+}, {
+  word: 'read',
+  freq: '97'
+}, {
+  word: 'keep',
+  freq: '96'
+}, {
+  word: 'part',
+  freq: '96'
+}, {
+  word: 'start',
+  freq: '96'
+}, {
+  word: 'year',
+  freq: '96'
+}, {
+  word: 'every',
+  freq: '95'
+}, {
+  word: 'field',
+  freq: '95'
+}, {
+  word: 'large',
+  freq: '95'
+}, {
+  word: 'once',
+  freq: '95'
+}, {
+  word: 'available',
+  freq: '94'
+}, {
+  word: 'down',
+  freq: '94'
+}, {
+  word: 'give',
+  freq: '93'
+}, {
+  word: 'fish',
+  freq: '92'
+}, {
+  word: 'human',
+  freq: '92'
+}, {
+  word: 'both',
+  freq: '91'
+}, {
+  word: 'local',
+  freq: '90'
+}, {
+  word: 'sure',
+  freq: '90'
+}, {
+  word: 'something',
+  freq: '89'
+}, {
+  word: 'without',
+  freq: '89'
+}, {
+  word: 'come',
+  freq: '88'
+}, {
+  word: 'me',
+  freq: '88'
+}, {
+  word: 'back',
+  freq: '86'
+}, {
+  word: 'better',
+  freq: '86'
+}, {
+  word: 'general',
+  freq: '85'
+}, {
+  word: 'process',
+  freq: '85'
+}, {
+  word: 'she',
+  freq: '85'
+}, {
+  word: 'heat',
+  freq: '84'
+}, {
+  word: 'thanks',
+  freq: '84'
+}, {
+  word: 'specific',
+  freq: '83'
+}, {
+  word: 'enough',
+  freq: '82'
+}, {
+  word: 'long',
+  freq: '82'
+}, {
+  word: 'lot',
+  freq: '82'
+}, {
+  word: 'hand',
+  freq: '81'
+}, {
+  word: 'popular',
+  freq: '81'
+}, {
+  word: 'small',
+  freq: '81'
+}, {
+  word: 'though',
+  freq: '81'
+}, {
+  word: 'experience',
+  freq: '80'
+}, {
+  word: 'include',
+  freq: '80'
+}, {
+  word: 'job',
+  freq: '80'
+}, {
+  word: 'music',
+  freq: '80'
+}, {
+  word: 'person',
+  freq: '80'
+}, {
+  word: 'really',
+  freq: '79'
+}, {
+  word: 'although',
+  freq: '78'
+}, {
+  word: 'thank',
+  freq: '78'
+}, {
+  word: 'book',
+  freq: '77'
+}, {
+  word: 'early',
+  freq: '77'
+}, {
+  word: 'reading',
+  freq: '77'
+}, {
+  word: 'end',
+  freq: '76'
+}, {
+  word: 'method',
+  freq: '76'
+}, {
+  word: 'never',
+  freq: '76'
+}, {
+  word: 'less',
+  freq: '75'
+}, {
+  word: 'play',
+  freq: '75'
+}, {
+  word: 'able',
+  freq: '74'
+}, {
+  word: 'data',
+  freq: '74'
+}, {
+  word: 'feel',
+  freq: '74'
+}, {
+  word: 'high',
+  freq: '74'
+}, {
+  word: 'off',
+  freq: '74'
+}, {
+  word: 'point',
+  freq: '74'
+}, {
+  word: 'type',
+  freq: '74'
+}, {
+  word: 'whether',
+  freq: '74'
+}, {
+  word: 'food',
+  freq: '73'
+}, {
+  word: 'understanding',
+  freq: '73'
+}, {
+  word: 'here',
+  freq: '72'
+}, {
+  word: 'home',
+  freq: '72'
+}, {
+  word: 'certain',
+  freq: '71'
+}, {
+  word: 'economy',
+  freq: '71'
+}, {
+  word: 'little',
+  freq: '71'
+}, {
+  word: 'theory',
+  freq: '71'
+}, {
+  word: 'tonight',
+  freq: '71'
+}, {
+  word: 'law',
+  freq: '70'
+}, {
+  word: 'put',
+  freq: '70'
+}, {
+  word: 'under',
+  freq: '70'
+}, {
+  word: 'value',
+  freq: '70'
+}, {
+  word: 'always',
+  freq: '69'
+}, {
+  word: 'body',
+  freq: '69'
+}, {
+  word: 'common',
+  freq: '69'
+}, {
+  word: 'market',
+  freq: '69'
+}, {
+  word: 'set',
+  freq: '69'
+}, {
+  word: 'bird',
+  freq: '68'
+}, {
+  word: 'guide',
+  freq: '68'
+}, {
+  word: 'provide',
+  freq: '68'
+}, {
+  word: 'change',
+  freq: '67'
+}, {
+  word: 'interest',
+  freq: '67'
+}, {
+  word: 'literature',
+  freq: '67'
+}, {
+  word: 'sometimes',
+  freq: '67'
+}, {
+  word: 'problem',
+  freq: '66'
+}, {
+  word: 'say',
+  freq: '66'
+}, {
+  word: 'next',
+  freq: '64'
+}, {
+  word: 'create',
+  freq: '63'
+}, {
+  word: 'simple',
+  freq: '63'
+}, {
+  word: 'software',
+  freq: '63'
+}, {
+  word: 'state',
+  freq: '63'
+}, {
+  word: 'together',
+  freq: '63'
+}, {
+  word: 'control',
+  freq: '62'
+}, {
+  word: 'knowledge',
+  freq: '62'
+}, {
+  word: 'power',
+  freq: '62'
+}, {
+  word: 'radio',
+  freq: '62'
+}, {
+  word: 'ability',
+  freq: '61'
+}, {
+  word: 'basic',
+  freq: '61'
+}, {
+  word: 'course',
+  freq: '61'
+}, {
+  word: 'economics',
+  freq: '61'
+}, {
+  word: 'hard',
+  freq: '61'
+}, {
+  word: 'add',
+  freq: '60'
+}, {
+  word: 'company',
+  freq: '60'
+}, {
+  word: 'known',
+  freq: '60'
+}, {
+  word: 'love',
+  freq: '60'
+}, {
+  word: 'past',
+  freq: '60'
+}, {
+  word: 'price',
+  freq: '60'
+}, {
+  word: 'size',
+  freq: '60'
+}, {
+  word: 'away',
+  freq: '59'
+}, {
+  word: 'big',
+  freq: '59'
+}, {
+  word: 'internet',
+  freq: '59'
+}, {
+  word: 'possible',
+  freq: '59'
+}, {
+  word: 'television',
+  freq: '59'
+}, {
+  word: 'three',
+  freq: '59'
+}, {
+  word: 'understand',
+  freq: '59'
+}, {
+  word: 'various',
+  freq: '59'
+}, {
+  word: 'yourself',
+  freq: '59'
+}, {
+  word: 'card',
+  freq: '58'
+}, {
+  word: 'difficult',
+  freq: '58'
+}, {
+  word: 'including',
+  freq: '58'
+}, {
+  word: 'list',
+  freq: '58'
+}, {
+  word: 'mind',
+  freq: '58'
+}, {
+  word: 'particular',
+  freq: '58'
+}, {
+  word: 'real',
+  freq: '58'
+}, {
+  word: 'science',
+  freq: '58'
+}, {
+  word: 'trade',
+  freq: '58'
+}, {
+  word: 'consider',
+  freq: '57'
+}, {
+  word: 'either',
+  freq: '57'
+}, {
+  word: 'library',
+  freq: '57'
+}, {
+  word: 'likely',
+  freq: '57'
+}, {
+  word: 'nature',
+  freq: '57'
+}, {
+  word: 'fact',
+  freq: '56'
+}, {
+  word: 'line',
+  freq: '56'
+}, {
+  word: 'product',
+  freq: '56'
+}, {
+  word: 'care',
+  freq: '55'
+}, {
+  word: 'group',
+  freq: '55'
+}, {
+  word: 'idea',
+  freq: '55'
+}, {
+  word: 'risk',
+  freq: '55'
+}, {
+  word: 'several',
+  freq: '55'
+}, {
+  word: 'someone',
+  freq: '55'
+}, {
+  word: 'temperature',
+  freq: '55'
+}, {
+  word: 'united',
+  freq: '55'
+}, {
+  word: 'word',
+  freq: '55'
+}, {
+  word: 'fat',
+  freq: '54'
+}, {
+  word: 'force',
+  freq: '54'
+}, {
+  word: 'key',
+  freq: '54'
+}, {
+  word: 'light',
+  freq: '54'
+}, {
+  word: 'simply',
+  freq: '54'
+}, {
+  word: 'today',
+  freq: '54'
+}, {
+  word: 'training',
+  freq: '54'
+}, {
+  word: 'until',
+  freq: '54'
+}, {
+  word: 'major',
+  freq: '53'
+}, {
+  word: 'name',
+  freq: '53'
+}, {
+  word: 'personal',
+  freq: '53'
+}, {
+  word: 'school',
+  freq: '53'
+}, {
+  word: 'top',
+  freq: '53'
+}, {
+  word: 'current',
+  freq: '52'
+}, {
+  word: 'generally',
+  freq: '52'
+}, {
+  word: 'historical',
+  freq: '52'
+}, {
+  word: 'investment',
+  freq: '52'
+}, {
+  word: 'left',
+  freq: '52'
+}, {
+  word: 'national',
+  freq: '52'
+}, {
+  word: 'amount',
+  freq: '51'
+}, {
+  word: 'level',
+  freq: '51'
+}, {
+  word: 'order',
+  freq: '51'
+}, {
+  word: 'practice',
+  freq: '51'
+}, {
+  word: 'research',
+  freq: '51'
+}, {
+  word: 'sense',
+  freq: '51'
+}, {
+  word: 'service',
+  freq: '51'
+}, {
+  word: 'area',
+  freq: '50'
+}, {
+  word: 'cut',
+  freq: '50'
+}, {
+  word: 'hot',
+  freq: '50'
+}, {
+  word: 'instead',
+  freq: '50'
+}, {
+  word: 'least',
+  freq: '50'
+}, {
+  word: 'natural',
+  freq: '50'
+}, {
+  word: 'physical',
+  freq: '50'
+}, {
+  word: 'piece',
+  freq: '50'
+}, {
+  word: 'show',
+  freq: '50'
+}, {
+  word: 'society',
+  freq: '50'
+}, {
+  word: 'try',
+  freq: '50'
+}, {
+  word: 'check',
+  freq: '49'
+}, {
+  word: 'choose',
+  freq: '49'
+}, {
+  word: 'develop',
+  freq: '49'
+}, {
+  word: 'second',
+  freq: '49'
+}, {
+  word: 'useful',
+  freq: '49'
+}, {
+  word: 'web',
+  freq: '49'
+}, {
+  word: 'activity',
+  freq: '48'
+}, {
+  word: 'boss',
+  freq: '48'
+}, {
+  word: 'short',
+  freq: '48'
+}, {
+  word: 'story',
+  freq: '48'
+}, {
+  word: 'call',
+  freq: '47'
+}, {
+  word: 'industry',
+  freq: '47'
+}, {
+  word: 'last',
+  freq: '47'
+}, {
+  word: 'media',
+  freq: '47'
+}, {
+  word: 'mental',
+  freq: '47'
+}, {
+  word: 'move',
+  freq: '47'
+}, {
+  word: 'pay',
+  freq: '47'
+}, {
+  word: 'sport',
+  freq: '47'
+}, {
+  word: 'thing',
+  freq: '47'
+}, {
+  word: 'actually',
+  freq: '46'
+}, {
+  word: 'against',
+  freq: '46'
+}, {
+  word: 'far',
+  freq: '46'
+}, {
+  word: 'fun',
+  freq: '46'
+}, {
+  word: 'house',
+  freq: '46'
+}, {
+  word: 'let',
+  freq: '46'
+}, {
+  word: 'page',
+  freq: '46'
+}, {
+  word: 'remember',
+  freq: '46'
+}, {
+  word: 'term',
+  freq: '46'
+}, {
+  word: 'test',
+  freq: '46'
+}, {
+  word: 'within',
+  freq: '46'
+}, {
+  word: 'along',
+  freq: '45'
+}, {
+  word: 'answer',
+  freq: '45'
+}, {
+  word: 'increase',
+  freq: '45'
+}, {
+  word: 'oven',
+  freq: '45'
+}, {
+  word: 'quite',
+  freq: '45'
+}, {
+  word: 'scared',
+  freq: '45'
+}, {
+  word: 'single',
+  freq: '45'
+}, {
+  word: 'sound',
+  freq: '45'
+}, {
+  word: 'again',
+  freq: '44'
+}, {
+  word: 'community',
+  freq: '44'
+}, {
+  word: 'definition',
+  freq: '44'
+}, {
+  word: 'focus',
+  freq: '44'
+}, {
+  word: 'individual',
+  freq: '44'
+}, {
+  word: 'matter',
+  freq: '44'
+}, {
+  word: 'safety',
+  freq: '44'
+}, {
+  word: 'turn',
+  freq: '44'
+}, {
+  word: 'everything',
+  freq: '43'
+}, {
+  word: 'kind',
+  freq: '43'
+}, {
+  word: 'quality',
+  freq: '43'
+}, {
+  word: 'soil',
+  freq: '43'
+}, {
+  word: 'ask',
+  freq: '42'
+}, {
+  word: 'board',
+  freq: '42'
+}, {
+  word: 'buy',
+  freq: '42'
+}, {
+  word: 'development',
+  freq: '42'
+}, {
+  word: 'guard',
+  freq: '42'
+}, {
+  word: 'hold',
+  freq: '42'
+}, {
+  word: 'language',
+  freq: '42'
+}, {
+  word: 'later',
+  freq: '42'
+}, {
+  word: 'main',
+  freq: '42'
+}, {
+  word: 'offer',
+  freq: '42'
+}, {
+  word: 'oil',
+  freq: '42'
+}, {
+  word: 'picture',
+  freq: '42'
+}, {
+  word: 'potential',
+  freq: '42'
+}, {
+  word: 'professional',
+  freq: '42'
+}, {
+  word: 'rather',
+  freq: '42'
+}, {
+  word: 'access',
+  freq: '41'
+}, {
+  word: 'additional',
+  freq: '41'
+}, {
+  word: 'almost',
+  freq: '41'
+}, {
+  word: 'especially',
+  freq: '41'
+}, {
+  word: 'garden',
+  freq: '41'
+}, {
+  word: 'international',
+  freq: '41'
+}, {
+  word: 'lower',
+  freq: '41'
+}, {
+  word: 'management',
+  freq: '41'
+}, {
+  word: 'open',
+  freq: '41'
+}, {
+  word: 'player',
+  freq: '41'
+}, {
+  word: 'range',
+  freq: '41'
+}, {
+  word: 'rate',
+  freq: '41'
+}, {
+  word: 'reason',
+  freq: '41'
+}, {
+  word: 'travel',
+  freq: '41'
+}, {
+  word: 'variety',
+  freq: '41'
+}, {
+  word: 'video',
+  freq: '41'
+}, {
+  word: 'week',
+  freq: '41'
+}, {
+  word: 'above',
+  freq: '40'
+}, {
+  word: 'according',
+  freq: '40'
+}, {
+  word: 'cook',
+  freq: '40'
+}, {
+  word: 'determine',
+  freq: '40'
+}, {
+  word: 'future',
+  freq: '40'
+}, {
+  word: 'site',
+  freq: '40'
+}, {
+  word: 'alternative',
+  freq: '39'
+}, {
+  word: 'demand',
+  freq: '39'
+}, {
+  word: 'ever',
+  freq: '39'
+}, {
+  word: 'exercise',
+  freq: '39'
+}, {
+  word: 'following',
+  freq: '39'
+}, {
+  word: 'image',
+  freq: '39'
+}, {
+  word: 'quickly',
+  freq: '39'
+}, {
+  word: 'special',
+  freq: '39'
+}, {
+  word: 'working',
+  freq: '39'
+}, {
+  word: 'case',
+  freq: '38'
+}, {
+  word: 'cause',
+  freq: '38'
+}, {
+  word: 'coast',
+  freq: '38'
+}, {
+  word: 'probably',
+  freq: '38'
+}, {
+  word: 'security',
+  freq: '38'
+}, {
+  word: 'true',
+  freq: '38'
+}, {
+  word: 'whole',
+  freq: '38'
+}, {
+  word: 'action',
+  freq: '37'
+}, {
+  word: 'age',
+  freq: '37'
+}, {
+  word: 'among',
+  freq: '37'
+}, {
+  word: 'bad',
+  freq: '37'
+}, {
+  word: 'boat',
+  freq: '37'
+}, {
+  word: 'country',
+  freq: '37'
+}, {
+  word: 'dance',
+  freq: '37'
+}, {
+  word: 'exam',
+  freq: '37'
+}, {
+  word: 'excuse',
+  freq: '37'
+}, {
+  word: 'grow',
+  freq: '37'
+}, {
+  word: 'movie',
+  freq: '37'
+}, {
+  word: 'organization',
+  freq: '37'
+}, {
+  word: 'record',
+  freq: '37'
+}, {
+  word: 'result',
+  freq: '37'
+}, {
+  word: 'section',
+  freq: '37'
+}, {
+  word: 'across',
+  freq: '36'
+}, {
+  word: 'already',
+  freq: '36'
+}, {
+  word: 'below',
+  freq: '36'
+}, {
+  word: 'building',
+  freq: '36'
+}, {
+  word: 'mouse',
+  freq: '36'
+}, {
+  word: 'allow',
+  freq: '35'
+}, {
+  word: 'cash',
+  freq: '35'
+}, {
+  word: 'class',
+  freq: '35'
+}, {
+  word: 'clear',
+  freq: '35'
+}, {
+  word: 'dry',
+  freq: '35'
+}, {
+  word: 'easy',
+  freq: '35'
+}, {
+  word: 'emotional',
+  freq: '35'
+}, {
+  word: 'equipment',
+  freq: '35'
+}, {
+  word: 'live',
+  freq: '35'
+}, {
+  word: 'nothing',
+  freq: '35'
+}, {
+  word: 'period',
+  freq: '35'
+}, {
+  word: 'physics',
+  freq: '35'
+}, {
+  word: 'plan',
+  freq: '35'
+}, {
+  word: 'store',
+  freq: '35'
+}, {
+  word: 'tax',
+  freq: '35'
+}, {
+  word: 'analysis',
+  freq: '34'
+}, {
+  word: 'cold',
+  freq: '34'
+}, {
+  word: 'commercial',
+  freq: '34'
+}, {
+  word: 'directly',
+  freq: '34'
+}, {
+  word: 'full',
+  freq: '34'
+}, {
+  word: 'involved',
+  freq: '34'
+}, {
+  word: 'itself',
+  freq: '34'
+}, {
+  word: 'low',
+  freq: '34'
+}, {
+  word: 'old',
+  freq: '34'
+}, {
+  word: 'policy',
+  freq: '34'
+}, {
+  word: 'political',
+  freq: '34'
+}, {
+  word: 'purchase',
+  freq: '34'
+}, {
+  word: 'series',
+  freq: '34'
+}, {
+  word: 'side',
+  freq: '34'
+}, {
+  word: 'subject',
+  freq: '34'
+}, {
+  word: 'supply',
+  freq: '34'
+}, {
+  word: 'therefore',
+  freq: '34'
+}, {
+  word: 'thought',
+  freq: '34'
+}, {
+  word: 'basis',
+  freq: '33'
+}, {
+  word: 'boyfriend',
+  freq: '33'
+}, {
+  word: 'deal',
+  freq: '33'
+}, {
+  word: 'direction',
+  freq: '33'
+}, {
+  word: 'mean',
+  freq: '33'
+}, {
+  word: 'primary',
+  freq: '33'
+}, {
+  word: 'space',
+  freq: '33'
+}, {
+  word: 'strategy',
+  freq: '33'
+}, {
+  word: 'technology',
+  freq: '33'
+}, {
+  word: 'worth',
+  freq: '33'
+}, {
+  word: 'army',
+  freq: '32'
+}, {
+  word: 'camera',
+  freq: '32'
+}, {
+  word: 'fall',
+  freq: '32'
+}, {
+  word: 'freedom',
+  freq: '32'
+}, {
+  word: 'paper',
+  freq: '32'
+}, {
+  word: 'rule',
+  freq: '32'
+}, {
+  word: 'similar',
+  freq: '32'
+}, {
+  word: 'stock',
+  freq: '32'
+}, {
+  word: 'weather',
+  freq: '32'
+}, {
+  word: 'yet',
+  freq: '32'
+}, {
+  word: 'bring',
+  freq: '31'
+}, {
+  word: 'chance',
+  freq: '31'
+}, {
+  word: 'environment',
+  freq: '31'
+}, {
+  word: 'everyone',
+  freq: '31'
+}, {
+  word: 'figure',
+  freq: '31'
+}, {
+  word: 'improve',
+  freq: '31'
+}, {
+  word: 'man',
+  freq: '31'
+}, {
+  word: 'model',
+  freq: '31'
+}, {
+  word: 'necessary',
+  freq: '31'
+}, {
+  word: 'positive',
+  freq: '31'
+}, {
+  word: 'produce',
+  freq: '31'
+}, {
+  word: 'search',
+  freq: '31'
+}, {
+  word: 'source',
+  freq: '31'
+}, {
+  word: 'beginning',
+  freq: '30'
+}, {
+  word: 'child',
+  freq: '30'
+}, {
+  word: 'earth',
+  freq: '30'
+}, {
+  word: 'else',
+  freq: '30'
+}, {
+  word: 'healthy',
+  freq: '30'
+}, {
+  word: 'instance',
+  freq: '30'
+}, {
+  word: 'maintain',
+  freq: '30'
+}, {
+  word: 'month',
+  freq: '30'
+}, {
+  word: 'present',
+  freq: '30'
+}, {
+  word: 'program',
+  freq: '30'
+}, {
+  word: 'spend',
+  freq: '30'
+}, {
+  word: 'talk',
+  freq: '30'
+}, {
+  word: 'truth',
+  freq: '30'
+}, {
+  word: 'upset',
+  freq: '30'
+}, {
+  word: 'begin',
+  freq: '29'
+}, {
+  word: 'chicken',
+  freq: '29'
+}, {
+  word: 'close',
+  freq: '29'
+}, {
+  word: 'creative',
+  freq: '29'
+}, {
+  word: 'design',
+  freq: '29'
+}, {
+  word: 'feature',
+  freq: '29'
+}, {
+  word: 'financial',
+  freq: '29'
+}, {
+  word: 'head',
+  freq: '29'
+}, {
+  word: 'marketing',
+  freq: '29'
+}, {
+  word: 'material',
+  freq: '29'
+}, {
+  word: 'medical',
+  freq: '29'
+}, {
+  word: 'purpose',
+  freq: '29'
+}, {
+  word: 'question',
+  freq: '29'
+}, {
+  word: 'rock',
+  freq: '29'
+}, {
+  word: 'salt',
+  freq: '29'
+}, {
+  word: 'tell',
+  freq: '29'
+}, {
+  word: 'themselves',
+  freq: '29'
+}, {
+  word: 'traditional',
+  freq: '29'
+}, {
+  word: 'university',
+  freq: '29'
+}, {
+  word: 'writing',
+  freq: '29'
+}, {
+  word: 'act',
+  freq: '28'
+}, {
+  word: 'article',
+  freq: '28'
+}, {
+  word: 'birth',
+  freq: '28'
+}, {
+  word: 'car',
+  freq: '28'
+}, {
+  word: 'cost',
+  freq: '28'
+}, {
+  word: 'department',
+  freq: '28'
+}, {
+  word: 'difference',
+  freq: '28'
+}, {
+  word: 'dog',
+  freq: '28'
+}, {
+  word: 'drive',
+  freq: '28'
+}, {
+  word: 'exist',
+  freq: '28'
+}, {
+  word: 'federal',
+  freq: '28'
+}, {
+  word: 'goal',
+  freq: '28'
+}, {
+  word: 'green',
+  freq: '28'
+}, {
+  word: 'late',
+  freq: '28'
+}, {
+  word: 'news',
+  freq: '28'
+}, {
+  word: 'object',
+  freq: '28'
+}, {
+  word: 'scale',
+  freq: '28'
+}, {
+  word: 'sun',
+  freq: '28'
+}, {
+  word: 'support',
+  freq: '28'
+}, {
+  word: 'tend',
+  freq: '28'
+}, {
+  word: 'thus',
+  freq: '28'
+}, {
+  word: 'audience',
+  freq: '27'
+}, {
+  word: 'enjoy',
+  freq: '27'
+}, {
+  word: 'entire',
+  freq: '27'
+}, {
+  word: 'fishing',
+  freq: '27'
+}, {
+  word: 'fit',
+  freq: '27'
+}, {
+  word: 'glad',
+  freq: '27'
+}, {
+  word: 'growth',
+  freq: '27'
+}, {
+  word: 'income',
+  freq: '27'
+}, {
+  word: 'marriage',
+  freq: '27'
+}, {
+  word: 'note',
+  freq: '27'
+}, {
+  word: 'perform',
+  freq: '27'
+}, {
+  word: 'profit',
+  freq: '27'
+}, {
+  word: 'proper',
+  freq: '27'
+}, {
+  word: 'related',
+  freq: '27'
+}, {
+  word: 'remove',
+  freq: '27'
+}, {
+  word: 'rent',
+  freq: '27'
+}, {
+  word: 'return',
+  freq: '27'
+}, {
+  word: 'run',
+  freq: '27'
+}, {
+  word: 'speed',
+  freq: '27'
+}, {
+  word: 'strong',
+  freq: '27'
+}, {
+  word: 'style',
+  freq: '27'
+}, {
+  word: 'throughout',
+  freq: '27'
+}, {
+  word: 'user',
+  freq: '27'
+}, {
+  word: 'war',
+  freq: '27'
+}, {
+  word: 'actual',
+  freq: '26'
+}, {
+  word: 'appropriate',
+  freq: '26'
+}, {
+  word: 'bank',
+  freq: '26'
+}, {
+  word: 'combination',
+  freq: '26'
+}, {
+  word: 'complex',
+  freq: '26'
+}, {
+  word: 'content',
+  freq: '26'
+}, {
+  word: 'craft',
+  freq: '26'
+}, {
+  word: 'due',
+  freq: '26'
+}, {
+  word: 'easily',
+  freq: '26'
+}, {
+  word: 'effective',
+  freq: '26'
+}, {
+  word: 'eventually',
+  freq: '26'
+}, {
+  word: 'exactly',
+  freq: '26'
+}, {
+  word: 'failure',
+  freq: '26'
+}, {
+  word: 'half',
+  freq: '26'
+}, {
+  word: 'inside',
+  freq: '26'
+}, {
+  word: 'meaning',
+  freq: '26'
+}, {
+  word: 'medicine',
+  freq: '26'
+}, {
+  word: 'middle',
+  freq: '26'
+}, {
+  word: 'outside',
+  freq: '26'
+}, {
+  word: 'philosophy',
+  freq: '26'
+}, {
+  word: 'regular',
+  freq: '26'
+}, {
+  word: 'reserve',
+  freq: '26'
+}, {
+  word: 'standard',
+  freq: '26'
+}, {
+  word: 'bus',
+  freq: '25'
+}, {
+  word: 'decide',
+  freq: '25'
+}, {
+  word: 'exchange',
+  freq: '25'
+}, {
+  word: 'eye',
+  freq: '25'
+}, {
+  word: 'fast',
+  freq: '25'
+}, {
+  word: 'fire',
+  freq: '25'
+}, {
+  word: 'identify',
+  freq: '25'
+}, {
+  word: 'independent',
+  freq: '25'
+}, {
+  word: 'leave',
+  freq: '25'
+}, {
+  word: 'original',
+  freq: '25'
+}, {
+  word: 'position',
+  freq: '25'
+}, {
+  word: 'pressure',
+  freq: '25'
+}, {
+  word: 'reach',
+  freq: '25'
+}, {
+  word: 'rest',
+  freq: '25'
+}, {
+  word: 'serve',
+  freq: '25'
+}, {
+  word: 'stress',
+  freq: '25'
+}, {
+  word: 'teacher',
+  freq: '25'
+}, {
+  word: 'watch',
+  freq: '25'
+}, {
+  word: 'wide',
+  freq: '25'
+}, {
+  word: 'advantage',
+  freq: '24'
+}, {
+  word: 'beautiful',
+  freq: '24'
+}, {
+  word: 'benefit',
+  freq: '24'
+}, {
+  word: 'box',
+  freq: '24'
+}, {
+  word: 'charge',
+  freq: '24'
+}, {
+  word: 'communication',
+  freq: '24'
+}, {
+  word: 'complete',
+  freq: '24'
+}, {
+  word: 'continue',
+  freq: '24'
+}, {
+  word: 'frame',
+  freq: '24'
+}, {
+  word: 'issue',
+  freq: '24'
+}, {
+  word: 'limited',
+  freq: '24'
+}, {
+  word: 'night',
+  freq: '24'
+}, {
+  word: 'protect',
+  freq: '24'
+}, {
+  word: 'require',
+  freq: '24'
+}, {
+  word: 'significant',
+  freq: '24'
+}, {
+  word: 'step',
+  freq: '24'
+}, {
+  word: 'successful',
+  freq: '24'
+}, {
+  word: 'unless',
+  freq: '24'
+}, {
+  word: 'active',
+  freq: '23'
+}, {
+  word: 'break',
+  freq: '23'
+}, {
+  word: 'chemistry',
+  freq: '23'
+}, {
+  word: 'cycle',
+  freq: '23'
+}, {
+  word: 'disease',
+  freq: '23'
+}, {
+  word: 'disk',
+  freq: '23'
+}, {
+  word: 'electrical',
+  freq: '23'
+}, {
+  word: 'energy',
+  freq: '23'
+}, {
+  word: 'expensive',
+  freq: '23'
+}, {
+  word: 'face',
+  freq: '23'
+}, {
+  word: 'interested',
+  freq: '23'
+}, {
+  word: 'item',
+  freq: '23'
+}, {
+  word: 'metal',
+  freq: '23'
+}, {
+  word: 'nation',
+  freq: '23'
+}, {
+  word: 'negative',
+  freq: '23'
+}, {
+  word: 'occur',
+  freq: '23'
+}, {
+  word: 'paint',
+  freq: '23'
+}, {
+  word: 'pregnant',
+  freq: '23'
+}, {
+  word: 'review',
+  freq: '23'
+}, {
+  word: 'road',
+  freq: '23'
+}, {
+  word: 'role',
+  freq: '23'
+}, {
+  word: 'room',
+  freq: '23'
+}, {
+  word: 'safe',
+  freq: '23'
+}, {
+  word: 'screen',
+  freq: '23'
+}, {
+  word: 'soup',
+  freq: '23'
+}, {
+  word: 'stay',
+  freq: '23'
+}, {
+  word: 'structure',
+  freq: '23'
+}, {
+  word: 'view',
+  freq: '23'
+}, {
+  word: 'visit',
+  freq: '23'
+}, {
+  word: 'visual',
+  freq: '23'
+}, {
+  word: 'write',
+  freq: '23'
+}, {
+  word: 'wrong',
+  freq: '23'
+}, {
+  word: 'account',
+  freq: '22'
+}, {
+  word: 'advertising',
+  freq: '22'
+}, {
+  word: 'affect',
+  freq: '22'
+}, {
+  word: 'ago',
+  freq: '22'
+}, {
+  word: 'anyone',
+  freq: '22'
+}, {
+  word: 'approach',
+  freq: '22'
+}, {
+  word: 'avoid',
+  freq: '22'
+}, {
+  word: 'ball',
+  freq: '22'
+}, {
+  word: 'behind',
+  freq: '22'
+}, {
+  word: 'certainly',
+  freq: '22'
+}, {
+  word: 'concerned',
+  freq: '22'
+}, {
+  word: 'cover',
+  freq: '22'
+}, {
+  word: 'discipline',
+  freq: '22'
+}, {
+  word: 'location',
+  freq: '22'
+}, {
+  word: 'medium',
+  freq: '22'
+}, {
+  word: 'normally',
+  freq: '22'
+}, {
+  word: 'prepare',
+  freq: '22'
+}, {
+  word: 'quick',
+  freq: '22'
+}, {
+  word: 'ready',
+  freq: '22'
+}, {
+  word: 'report',
+  freq: '22'
+}, {
+  word: 'rise',
+  freq: '22'
+}, {
+  word: 'share',
+  freq: '22'
+}, {
+  word: 'success',
+  freq: '22'
+}, {
+  word: 'addition',
+  freq: '21'
+}, {
+  word: 'apartment',
+  freq: '21'
+}, {
+  word: 'balance',
+  freq: '21'
+}, {
+  word: 'bit',
+  freq: '21'
+}, {
+  word: 'black',
+  freq: '21'
+}, {
+  word: 'bottom',
+  freq: '21'
+}, {
+  word: 'build',
+  freq: '21'
+}, {
+  word: 'choice',
+  freq: '21'
+}, {
+  word: 'education',
+  freq: '21'
+}, {
+  word: 'gift',
+  freq: '21'
+}, {
+  word: 'impact',
+  freq: '21'
+}, {
+  word: 'machine',
+  freq: '21'
+}, {
+  word: 'math',
+  freq: '21'
+}, {
+  word: 'moment',
+  freq: '21'
+}, {
+  word: 'painting',
+  freq: '21'
+}, {
+  word: 'politics',
+  freq: '21'
+}, {
+  word: 'shape',
+  freq: '21'
+}, {
+  word: 'straight',
+  freq: '21'
+}, {
+  word: 'tool',
+  freq: '21'
+}, {
+  word: 'walk',
+  freq: '21'
+}, {
+  word: 'white',
+  freq: '21'
+}, {
+  word: 'wind',
+  freq: '21'
+}, {
+  word: 'achieve',
+  freq: '20'
+}, {
+  word: 'address',
+  freq: '20'
+}, {
+  word: 'attention',
+  freq: '20'
+}, {
+  word: 'average',
+  freq: '20'
+}, {
+  word: 'believe',
+  freq: '20'
+}, {
+  word: 'beyond',
+  freq: '20'
+}, {
+  word: 'career',
+  freq: '20'
+}, {
+  word: 'culture',
+  freq: '20'
+}, {
+  word: 'decision',
+  freq: '20'
+}, {
+  word: 'direct',
+  freq: '20'
+}, {
+  word: 'event',
+  freq: '20'
+}, {
+  word: 'excellent',
+  freq: '20'
+}, {
+  word: 'extra',
+  freq: '20'
+}, {
+  word: 'intelligent',
+  freq: '20'
+}, {
+  word: 'interesting',
+  freq: '20'
+}, {
+  word: 'junior',
+  freq: '20'
+}, {
+  word: 'morning',
+  freq: '20'
+}, {
+  word: 'pick',
+  freq: '20'
+}, {
+  word: 'poor',
+  freq: '20'
+}, {
+  word: 'pot',
+  freq: '20'
+}, {
+  word: 'pretty',
+  freq: '20'
+}, {
+  word: 'property',
+  freq: '20'
+}, {
+  word: 'receive',
+  freq: '20'
+}, {
+  word: 'seem',
+  freq: '20'
+}, {
+  word: 'shopping',
+  freq: '20'
+}, {
+  word: 'sign',
+  freq: '20'
+}, {
+  word: 'student',
+  freq: '20'
+}, {
+  word: 'table',
+  freq: '20'
+}, {
+  word: 'task',
+  freq: '20'
+}, {
+  word: 'unique',
+  freq: '20'
+}, {
+  word: 'wood',
+  freq: '20'
+}, {
+  word: 'anything',
+  freq: '19'
+}, {
+  word: 'classic',
+  freq: '19'
+}, {
+  word: 'competition',
+  freq: '19'
+}, {
+  word: 'condition',
+  freq: '19'
+}, {
+  word: 'contact',
+  freq: '19'
+}, {
+  word: 'credit',
+  freq: '19'
+}, {
+  word: 'currently',
+  freq: '19'
+}, {
+  word: 'discuss',
+  freq: '19'
+}, {
+  word: 'distribution',
+  freq: '19'
+}, {
+  word: 'egg',
+  freq: '19'
+}, {
+  word: 'entertainment',
+  freq: '19'
+}, {
+  word: 'final',
+  freq: '19'
+}, {
+  word: 'happy',
+  freq: '19'
+}, {
+  word: 'hope',
+  freq: '19'
+}, {
+  word: 'ice',
+  freq: '19'
+}, {
+  word: 'lift',
+  freq: '19'
+}, {
+  word: 'mix',
+  freq: '19'
+}, {
+  word: 'network',
+  freq: '19'
+}, {
+  word: 'north',
+  freq: '19'
+}, {
+  word: 'office',
+  freq: '19'
+}, {
+  word: 'overall',
+  freq: '19'
+}, {
+  word: 'population',
+  freq: '19'
+}, {
+  word: 'president',
+  freq: '19'
+}, {
+  word: 'private',
+  freq: '19'
+}, {
+  word: 'realize',
+  freq: '19'
+}, {
+  word: 'responsible',
+  freq: '19'
+}, {
+  word: 'separate',
+  freq: '19'
+}, {
+  word: 'square',
+  freq: '19'
+}, {
+  word: 'stop',
+  freq: '19'
+}, {
+  word: 'teach',
+  freq: '19'
+}, {
+  word: 'unit',
+  freq: '19'
+}, {
+  word: 'western',
+  freq: '19'
+}, {
+  word: 'yes',
+  freq: '19'
+}, {
+  word: 'alone',
+  freq: '18'
+}, {
+  word: 'attempt',
+  freq: '18'
+}, {
+  word: 'category',
+  freq: '18'
+}, {
+  word: 'cigarette',
+  freq: '18'
+}, {
+  word: 'concern',
+  freq: '18'
+}, {
+  word: 'contain',
+  freq: '18'
+}, {
+  word: 'context',
+  freq: '18'
+}, {
+  word: 'cute',
+  freq: '18'
+}, {
+  word: 'date',
+  freq: '18'
+}, {
+  word: 'effect',
+  freq: '18'
+}, {
+  word: 'extremely',
+  freq: '18'
+}, {
+  word: 'familiar',
+  freq: '18'
+}, {
+  word: 'finally',
+  freq: '18'
+}, {
+  word: 'fly',
+  freq: '18'
+}, {
+  word: 'follow',
+  freq: '18'
+}, {
+  word: 'helpful',
+  freq: '18'
+}, {
+  word: 'introduction',
+  freq: '18'
+}, {
+  word: 'link',
+  freq: '18'
+}, {
+  word: 'official',
+  freq: '18'
+}, {
+  word: 'opportunity',
+  freq: '18'
+}, {
+  word: 'perfect',
+  freq: '18'
+}, {
+  word: 'performance',
+  freq: '18'
+}, {
+  word: 'post',
+  freq: '18'
+}, {
+  word: 'recent',
+  freq: '18'
+}, {
+  word: 'refer',
+  freq: '18'
+}, {
+  word: 'solve',
+  freq: '18'
+}, {
+  word: 'star',
+  freq: '18'
+}, {
+  word: 'voice',
+  freq: '18'
+}, {
+  word: 'willing',
+  freq: '18'
+}, {
+  word: 'born',
+  freq: '17'
+}, {
+  word: 'bright',
+  freq: '17'
+}, {
+  word: 'broad',
+  freq: '17'
+}, {
+  word: 'capital',
+  freq: '17'
+}, {
+  word: 'challenge',
+  freq: '17'
+}, {
+  word: 'comfortable',
+  freq: '17'
+}, {
+  word: 'constantly',
+  freq: '17'
+}, {
+  word: 'describe',
+  freq: '17'
+}, {
+  word: 'despite',
+  freq: '17'
+}, {
+  word: 'driver',
+  freq: '17'
+}, {
+  word: 'flat',
+  freq: '17'
+}, {
+  word: 'flight',
+  freq: '17'
+}, {
+  word: 'friend',
+  freq: '17'
+}, {
+  word: 'gain',
+  freq: '17'
+}, {
+  word: 'him',
+  freq: '17'
+}, {
+  word: 'length',
+  freq: '17'
+}, {
+  word: 'magazine',
+  freq: '17'
+}, {
+  word: 'maybe',
+  freq: '17'
+}, {
+  word: 'newspaper',
+  freq: '17'
+}, {
+  word: 'nice',
+  freq: '17'
+}, {
+  word: 'prefer',
+  freq: '17'
+}, {
+  word: 'prevent',
+  freq: '17'
+}, {
+  word: 'properly',
+  freq: '17'
+}, {
+  word: 'relationship',
+  freq: '17'
+}, {
+  word: 'rich',
+  freq: '17'
+}, {
+  word: 'save',
+  freq: '17'
+}, {
+  word: 'self',
+  freq: '17'
+}, {
+  word: 'shot',
+  freq: '17'
+}, {
+  word: 'soon',
+  freq: '17'
+}, {
+  word: 'specifically',
+  freq: '17'
+}, {
+  word: 'stand',
+  freq: '17'
+}, {
+  word: 'teaching',
+  freq: '17'
+}, {
+  word: 'warm',
+  freq: '17'
+}, {
+  word: 'wonderful',
+  freq: '17'
+}, {
+  word: 'young',
+  freq: '17'
+}, {
+  word: 'ahead',
+  freq: '16'
+}, {
+  word: 'brush',
+  freq: '16'
+}, {
+  word: 'cell',
+  freq: '16'
+}, {
+  word: 'couple',
+  freq: '16'
+}, {
+  word: 'daily',
+  freq: '16'
+}, {
+  word: 'dealer',
+  freq: '16'
+}, {
+  word: 'debate',
+  freq: '16'
+}, {
+  word: 'discover',
+  freq: '16'
+}, {
+  word: 'ensure',
+  freq: '16'
+}, {
+  word: 'exit',
+  freq: '16'
+}, {
+  word: 'expect',
+  freq: '16'
+}, {
+  word: 'experienced',
+  freq: '16'
+}, {
+  word: 'fail',
+  freq: '16'
+}, {
+  word: 'finding',
+  freq: '16'
+}, {
+  word: 'front',
+  freq: '16'
+}, {
+  word: 'function',
+  freq: '16'
+}, {
+  word: 'heavy',
+  freq: '16'
+}, {
+  word: 'hello',
+  freq: '16'
+}, {
+  word: 'highly',
+  freq: '16'
+}, {
+  word: 'immediately',
+  freq: '16'
+}, {
+  word: 'impossible',
+  freq: '16'
+}, {
+  word: 'invest',
+  freq: '16'
+}, {
+  word: 'lack',
+  freq: '16'
+}, {
+  word: 'lake',
+  freq: '16'
+}, {
+  word: 'lead',
+  freq: '16'
+}, {
+  word: 'listen',
+  freq: '16'
+}, {
+  word: 'living',
+  freq: '16'
+}, {
+  word: 'member',
+  freq: '16'
+}, {
+  word: 'message',
+  freq: '16'
+}, {
+  word: 'phone',
+  freq: '16'
+}, {
+  word: 'plant',
+  freq: '16'
+}, {
+  word: 'plastic',
+  freq: '16'
+}, {
+  word: 'reduce',
+  freq: '16'
+}, {
+  word: 'relatively',
+  freq: '16'
+}, {
+  word: 'scene',
+  freq: '16'
+}, {
+  word: 'serious',
+  freq: '16'
+}, {
+  word: 'slowly',
+  freq: '16'
+}, {
+  word: 'speak',
+  freq: '16'
+}, {
+  word: 'spot',
+  freq: '16'
+}, {
+  word: 'summer',
+  freq: '16'
+}, {
+  word: 'taste',
+  freq: '16'
+}, {
+  word: 'theme',
+  freq: '16'
+}, {
+  word: 'towards',
+  freq: '16'
+}, {
+  word: 'track',
+  freq: '16'
+}, {
+  word: 'valuable',
+  freq: '16'
+}, {
+  word: 'whatever',
+  freq: '16'
+}, {
+  word: 'wing',
+  freq: '16'
+}, {
+  word: 'worry',
+  freq: '16'
+}, {
+  word: 'appear',
+  freq: '15'
+}, {
+  word: 'appearance',
+  freq: '15'
+}, {
+  word: 'association',
+  freq: '15'
+}, {
+  word: 'brain',
+  freq: '15'
+}, {
+  word: 'button',
+  freq: '15'
+}, {
+  word: 'click',
+  freq: '15'
+}, {
+  word: 'concept',
+  freq: '15'
+}, {
+  word: 'correct',
+  freq: '15'
+}, {
+  word: 'customer',
+  freq: '15'
+}, {
+  word: 'death',
+  freq: '15'
+}, {
+  word: 'desire',
+  freq: '15'
+}, {
+  word: 'discussion',
+  freq: '15'
+}, {
+  word: 'explain',
+  freq: '15'
+}, {
+  word: 'explore',
+  freq: '15'
+}, {
+  word: 'express',
+  freq: '15'
+}, {
+  word: 'fairly',
+  freq: '15'
+}, {
+  word: 'fixed',
+  freq: '15'
+}, {
+  word: 'foot',
+  freq: '15'
+}, {
+  word: 'gas',
+  freq: '15'
+}, {
+  word: 'handle',
+  freq: '15'
+}, {
+  word: 'housing',
+  freq: '15'
+}, {
+  word: 'huge',
+  freq: '15'
+}, {
+  word: 'inflation',
+  freq: '15'
+}, {
+  word: 'influence',
+  freq: '15'
+}, {
+  word: 'insurance',
+  freq: '15'
+}, {
+  word: 'involve',
+  freq: '15'
+}, {
+  word: 'leading',
+  freq: '15'
+}, {
+  word: 'lose',
+  freq: '15'
+}, {
+  word: 'meet',
+  freq: '15'
+}, {
+  word: 'mood',
+  freq: '15'
+}, {
+  word: 'notice',
+  freq: '15'
+}, {
+  word: 'primarily',
+  freq: '15'
+}, {
+  word: 'rain',
+  freq: '15'
+}, {
+  word: 'rare',
+  freq: '15'
+}, {
+  word: 'release',
+  freq: '15'
+}, {
+  word: 'sell',
+  freq: '15'
+}, {
+  word: 'slow',
+  freq: '15'
+}, {
+  word: 'technical',
+  freq: '15'
+}, {
+  word: 'typical',
+  freq: '15'
+}, {
+  word: 'upon',
+  freq: '15'
+}, {
+  word: 'wall',
+  freq: '15'
+}, {
+  word: 'woman',
+  freq: '15'
+}, {
+  word: 'advice',
+  freq: '14'
+}, {
+  word: 'afford',
+  freq: '14'
+}, {
+  word: 'agree',
+  freq: '14'
+}, {
+  word: 'base',
+  freq: '14'
+}, {
+  word: 'blood',
+  freq: '14'
+}, {
+  word: 'clean',
+  freq: '14'
+}, {
+  word: 'competitive',
+  freq: '14'
+}, {
+  word: 'completely',
+  freq: '14'
+}, {
+  word: 'critical',
+  freq: '14'
+}, {
+  word: 'damage',
+  freq: '14'
+}, {
+  word: 'distance',
+  freq: '14'
+}, {
+  word: 'effort',
+  freq: '14'
+}, {
+  word: 'electronic',
+  freq: '14'
+}, {
+  word: 'expression',
+  freq: '14'
+}, {
+  word: 'feeling',
+  freq: '14'
+}, {
+  word: 'finish',
+  freq: '14'
+}, {
+  word: 'fresh',
+  freq: '14'
+}, {
+  word: 'hear',
+  freq: '14'
+}, {
+  word: 'immediate',
+  freq: '14'
+}, {
+  word: 'importance',
+  freq: '14'
+}, {
+  word: 'normal',
+  freq: '14'
+}, {
+  word: 'opinion',
+  freq: '14'
+}, {
+  word: 'otherwise',
+  freq: '14'
+}, {
+  word: 'pair',
+  freq: '14'
+}, {
+  word: 'payment',
+  freq: '14'
+}, {
+  word: 'plus',
+  freq: '14'
+}, {
+  word: 'press',
+  freq: '14'
+}, {
+  word: 'reality',
+  freq: '14'
+}, {
+  word: 'remain',
+  freq: '14'
+}, {
+  word: 'represent',
+  freq: '14'
+}, {
+  word: 'responsibility',
+  freq: '14'
+}, {
+  word: 'ride',
+  freq: '14'
+}, {
+  word: 'savings',
+  freq: '14'
+}, {
+  word: 'secret',
+  freq: '14'
+}, {
+  word: 'situation',
+  freq: '14'
+}, {
+  word: 'skill',
+  freq: '14'
+}, {
+  word: 'spread',
+  freq: '14'
+}, {
+  word: 'spring',
+  freq: '14'
+}, {
+  word: 'staff',
+  freq: '14'
+}, {
+  word: 'statement',
+  freq: '14'
+}, {
+  word: 'sugar',
+  freq: '14'
+}, {
+  word: 'target',
+  freq: '14'
+}, {
+  word: 'text',
+  freq: '14'
+}, {
+  word: 'tough',
+  freq: '14'
+}, {
+  word: 'ultimately',
+  freq: '14'
+}, {
+  word: 'wait',
+  freq: '14'
+}, {
+  word: 'wealth',
+  freq: '14'
+}, {
+  word: 'whenever',
+  freq: '14'
+}, {
+  word: 'whose',
+  freq: '14'
+}, {
+  word: 'widely',
+  freq: '14'
+}, {
+  word: 'animal',
+  freq: '13'
+}, {
+  word: 'application',
+  freq: '13'
+}, {
+  word: 'apply',
+  freq: '13'
+}, {
+  word: 'author',
+  freq: '13'
+}, {
+  word: 'aware',
+  freq: '13'
+}, {
+  word: 'brown',
+  freq: '13'
+}, {
+  word: 'budget',
+  freq: '13'
+}, {
+  word: 'cheap',
+  freq: '13'
+}, {
+  word: 'city',
+  freq: '13'
+}, {
+  word: 'complicated',
+  freq: '13'
+}, {
+  word: 'county',
+  freq: '13'
+}, {
+  word: 'deep',
+  freq: '13'
+}, {
+  word: 'depth',
+  freq: '13'
+}, {
+  word: 'discount',
+  freq: '13'
+}, {
+  word: 'display',
+  freq: '13'
+}, {
+  word: 'educational',
+  freq: '13'
+}, {
+  word: 'environmental',
+  freq: '13'
+}, {
+  word: 'estate',
+  freq: '13'
+}, {
+  word: 'file',
+  freq: '13'
+}, {
+  word: 'flow',
+  freq: '13'
+}, {
+  word: 'forget',
+  freq: '13'
+}, {
+  word: 'foundation',
+  freq: '13'
+}, {
+  word: 'global',
+  freq: '13'
+}, {
+  word: 'grandmother',
+  freq: '13'
+}, {
+  word: 'ground',
+  freq: '13'
+}, {
+  word: 'heart',
+  freq: '13'
+}, {
+  word: 'hit',
+  freq: '13'
+}, {
+  word: 'legal',
+  freq: '13'
+}, {
+  word: 'lesson',
+  freq: '13'
+}, {
+  word: 'minute',
+  freq: '13'
+}, {
+  word: 'near',
+  freq: '13'
+}, {
+  word: 'objective',
+  freq: '13'
+}, {
+  word: 'officer',
+  freq: '13'
+}, {
+  word: 'perspective',
+  freq: '13'
+}, {
+  word: 'phase',
+  freq: '13'
+}, {
+  word: 'photo',
+  freq: '13'
+}, {
+  word: 'recently',
+  freq: '13'
+}, {
+  word: 'recipe',
+  freq: '13'
+}, {
+  word: 'recommend',
+  freq: '13'
+}, {
+  word: 'reference',
+  freq: '13'
+}, {
+  word: 'register',
+  freq: '13'
+}, {
+  word: 'relevant',
+  freq: '13'
+}, {
+  word: 'rely',
+  freq: '13'
+}, {
+  word: 'secure',
+  freq: '13'
+}, {
+  word: 'seriously',
+  freq: '13'
+}, {
+  word: 'shoot',
+  freq: '13'
+}, {
+  word: 'sky',
+  freq: '13'
+}, {
+  word: 'stage',
+  freq: '13'
+}, {
+  word: 'stick',
+  freq: '13'
+}, {
+  word: 'studio',
+  freq: '13'
+}, {
+  word: 'thin',
+  freq: '13'
+}, {
+  word: 'title',
+  freq: '13'
+}, {
+  word: 'topic',
+  freq: '13'
+}, {
+  word: 'touch',
+  freq: '13'
+}, {
+  word: 'trouble',
+  freq: '13'
+}, {
+  word: 'vary',
+  freq: '13'
+}, {
+  word: 'accurate',
+  freq: '12'
+}, {
+  word: 'advanced',
+  freq: '12'
+}, {
+  word: 'bowl',
+  freq: '12'
+}, {
+  word: 'bridge',
+  freq: '12'
+}, {
+  word: 'campaign',
+  freq: '12'
+}, {
+  word: 'cancel',
+  freq: '12'
+}, {
+  word: 'capable',
+  freq: '12'
+}, {
+  word: 'character',
+  freq: '12'
+}, {
+  word: 'chemical',
+  freq: '12'
+}, {
+  word: 'club',
+  freq: '12'
+}, {
+  word: 'collection',
+  freq: '12'
+}, {
+  word: 'cool',
+  freq: '12'
+}, {
+  word: 'cry',
+  freq: '12'
+}, {
+  word: 'dangerous',
+  freq: '12'
+}, {
+  word: 'depression',
+  freq: '12'
+}, {
+  word: 'dump',
+  freq: '12'
+}, {
+  word: 'edge',
+  freq: '12'
+}, {
+  word: 'evidence',
+  freq: '12'
+}, {
+  word: 'extreme',
+  freq: '12'
+}, {
+  word: 'fan',
+  freq: '12'
+}, {
+  word: 'frequently',
+  freq: '12'
+}, {
+  word: 'fully',
+  freq: '12'
+}, {
+  word: 'generate',
+  freq: '12'
+}, {
+  word: 'imagination',
+  freq: '12'
+}, {
+  word: 'letter',
+  freq: '12'
+}, {
+  word: 'lock',
+  freq: '12'
+}, {
+  word: 'maximum',
+  freq: '12'
+}, {
+  word: 'mostly',
+  freq: '12'
+}, {
+  word: 'myself',
+  freq: '12'
+}, {
+  word: 'naturally',
+  freq: '12'
+}, {
+  word: 'nearly',
+  freq: '12'
+}, {
+  word: 'novel',
+  freq: '12'
+}, {
+  word: 'obtain',
+  freq: '12'
+}, {
+  word: 'occasionally',
+  freq: '12'
+}, {
+  word: 'option',
+  freq: '12'
+}, {
+  word: 'organized',
+  freq: '12'
+}, {
+  word: 'pack',
+  freq: '12'
+}, {
+  word: 'park',
+  freq: '12'
+}, {
+  word: 'passion',
+  freq: '12'
+}, {
+  word: 'percentage',
+  freq: '12'
+}, {
+  word: 'plenty',
+  freq: '12'
+}, {
+  word: 'push',
+  freq: '12'
+}, {
+  word: 'quarter',
+  freq: '12'
+}, {
+  word: 'resource',
+  freq: '12'
+}, {
+  word: 'select',
+  freq: '12'
+}, {
+  word: 'setting',
+  freq: '12'
+}, {
+  word: 'skin',
+  freq: '12'
+}, {
+  word: 'sort',
+  freq: '12'
+}, {
+  word: 'weight',
+  freq: '12'
+}, {
+  word: 'accept',
+  freq: '11'
+}, {
+  word: 'ad',
+  freq: '11'
+}, {
+  word: 'agency',
+  freq: '11'
+}, {
+  word: 'baby',
+  freq: '11'
+}, {
+  word: 'background',
+  freq: '11'
+}, {
+  word: 'carefully',
+  freq: '11'
+}, {
+  word: 'carry',
+  freq: '11'
+}, {
+  word: 'clearly',
+  freq: '11'
+}, {
+  word: 'college',
+  freq: '11'
+}, {
+  word: 'communicate',
+  freq: '11'
+}, {
+  word: 'complain',
+  freq: '11'
+}, {
+  word: 'conflict',
+  freq: '11'
+}, {
+  word: 'connection',
+  freq: '11'
+}, {
+  word: 'criticism',
+  freq: '11'
+}, {
+  word: 'debt',
+  freq: '11'
+}, {
+  word: 'depend',
+  freq: '11'
+}, {
+  word: 'description',
+  freq: '11'
+}, {
+  word: 'die',
+  freq: '11'
+}, {
+  word: 'dish',
+  freq: '11'
+}, {
+  word: 'dramatic',
+  freq: '11'
+}, {
+  word: 'eat',
+  freq: '11'
+}, {
+  word: 'efficient',
+  freq: '11'
+}, {
+  word: 'enter',
+  freq: '11'
+}, {
+  word: 'essentially',
+  freq: '11'
+}, {
+  word: 'exact',
+  freq: '11'
+}, {
+  word: 'factor',
+  freq: '11'
+}, {
+  word: 'fair',
+  freq: '11'
+}, {
+  word: 'fill',
+  freq: '11'
+}, {
+  word: 'fine',
+  freq: '11'
+}, {
+  word: 'formal',
+  freq: '11'
+}, {
+  word: 'forward',
+  freq: '11'
+}, {
+  word: 'fruit',
+  freq: '11'
+}, {
+  word: 'glass',
+  freq: '11'
+}, {
+  word: 'happen',
+  freq: '11'
+}, {
+  word: 'indicate',
+  freq: '11'
+}, {
+  word: 'joint',
+  freq: '11'
+}, {
+  word: 'jump',
+  freq: '11'
+}, {
+  word: 'kick',
+  freq: '11'
+}, {
+  word: 'master',
+  freq: '11'
+}, {
+  word: 'memory',
+  freq: '11'
+}, {
+  word: 'muscle',
+  freq: '11'
+}, {
+  word: 'opposite',
+  freq: '11'
+}, {
+  word: 'pass',
+  freq: '11'
+}, {
+  word: 'patience',
+  freq: '11'
+}, {
+  word: 'pitch',
+  freq: '11'
+}, {
+  word: 'possibly',
+  freq: '11'
+}, {
+  word: 'powerful',
+  freq: '11'
+}, {
+  word: 'red',
+  freq: '11'
+}, {
+  word: 'remote',
+  freq: '11'
+}, {
+  word: 'secretary',
+  freq: '11'
+}, {
+  word: 'slightly',
+  freq: '11'
+}, {
+  word: 'solution',
+  freq: '11'
+}, {
+  word: 'somewhat',
+  freq: '11'
+}, {
+  word: 'strength',
+  freq: '11'
+}, {
+  word: 'suggest',
+  freq: '11'
+}, {
+  word: 'survive',
+  freq: '11'
+}, {
+  word: 'total',
+  freq: '11'
+}, {
+  word: 'traffic',
+  freq: '11'
+}, {
+  word: 'treat',
+  freq: '11'
+}, {
+  word: 'trip',
+  freq: '11'
+}, {
+  word: 'vast',
+  freq: '11'
+}, {
+  word: 'vegetable',
+  freq: '11'
+}, {
+  word: 'abuse',
+  freq: '10'
+}, {
+  word: 'administration',
+  freq: '10'
+}, {
+  word: 'appeal',
+  freq: '10'
+}, {
+  word: 'appreciate',
+  freq: '10'
+}, {
+  word: 'aspect',
+  freq: '10'
+}, {
+  word: 'attitude',
+  freq: '10'
+}, {
+  word: 'beat',
+  freq: '10'
+}, {
+  word: 'burn',
+  freq: '10'
+}, {
+  word: 'chart',
+  freq: '10'
+}, {
+  word: 'compare',
+  freq: '10'
+}, {
+  word: 'deposit',
+  freq: '10'
+}, {
+  word: 'director',
+  freq: '10'
+}, {
+  word: 'equally',
+  freq: '10'
+}, {
+  word: 'foreign',
+  freq: '10'
+}, {
+  word: 'gear',
+  freq: '10'
+}, {
+  word: 'greatly',
+  freq: '10'
+}, {
+  word: 'hungry',
+  freq: '10'
+}, {
+  word: 'ideal',
+  freq: '10'
+}, {
+  word: 'imagine',
+  freq: '10'
+}, {
+  word: 'kitchen',
+  freq: '10'
+}, {
+  word: 'land',
+  freq: '10'
+}, {
+  word: 'log',
+  freq: '10'
+}, {
+  word: 'lost',
+  freq: '10'
+}, {
+  word: 'manage',
+  freq: '10'
+}, {
+  word: 'mother',
+  freq: '10'
+}, {
+  word: 'necessarily',
+  freq: '10'
+}, {
+  word: 'net',
+  freq: '10'
+}, {
+  word: 'party',
+  freq: '10'
+}, {
+  word: 'personality',
+  freq: '10'
+}, {
+  word: 'personally',
+  freq: '10'
+}, {
+  word: 'practical',
+  freq: '10'
+}, {
+  word: 'principle',
+  freq: '10'
+}, {
+  word: 'print',
+  freq: '10'
+}, {
+  word: 'psychological',
+  freq: '10'
+}, {
+  word: 'psychology',
+  freq: '10'
+}, {
+  word: 'raise',
+  freq: '10'
+}, {
+  word: 'rarely',
+  freq: '10'
+}, {
+  word: 'recommendation',
+  freq: '10'
+}, {
+  word: 'regularly',
+  freq: '10'
+}, {
+  word: 'relative',
+  freq: '10'
+}, {
+  word: 'response',
+  freq: '10'
+}, {
+  word: 'sale',
+  freq: '10'
+}, {
+  word: 'season',
+  freq: '10'
+}, {
+  word: 'selection',
+  freq: '10'
+}, {
+  word: 'severe',
+  freq: '10'
+}, {
+  word: 'signal',
+  freq: '10'
+}, {
+  word: 'similarly',
+  freq: '10'
+}, {
+  word: 'sleep',
+  freq: '10'
+}, {
+  word: 'smooth',
+  freq: '10'
+}, {
+  word: 'somewhere',
+  freq: '10'
+}, {
+  word: 'spirit',
+  freq: '10'
+}, {
+  word: 'storage',
+  freq: '10'
+}, {
+  word: 'street',
+  freq: '10'
+}, {
+  word: 'suitable',
+  freq: '10'
+}, {
+  word: 'tree',
+  freq: '10'
+}, {
+  word: 'version',
+  freq: '10'
+}, {
+  word: 'wave',
+  freq: '10'
+}, {
+  word: 'advance',
+  freq: '9'
+}, {
+  word: 'alcohol',
+  freq: '9'
+}, {
+  word: 'anywhere',
+  freq: '9'
+}, {
+  word: 'argument',
+  freq: '9'
+}, {
+  word: 'basically',
+  freq: '9'
+}, {
+  word: 'belt',
+  freq: '9'
+}, {
+  word: 'bench',
+  freq: '9'
+}, {
+  word: 'closed',
+  freq: '9'
+}, {
+  word: 'closely',
+  freq: '9'
+}, {
+  word: 'commission',
+  freq: '9'
+}, {
+  word: 'complaint',
+  freq: '9'
+}, {
+  word: 'connect',
+  freq: '9'
+}, {
+  word: 'consist',
+  freq: '9'
+}, {
+  word: 'contract',
+  freq: '9'
+}, {
+  word: 'contribute',
+  freq: '9'
+}, {
+  word: 'copy',
+  freq: '9'
+}, {
+  word: 'dark',
+  freq: '9'
+}, {
+  word: 'differ',
+  freq: '9'
+}, {
+  word: 'double',
+  freq: '9'
+}, {
+  word: 'draw',
+  freq: '9'
+}, {
+  word: 'drop',
+  freq: '9'
+}, {
+  word: 'effectively',
+  freq: '9'
+}, {
+  word: 'emphasis',
+  freq: '9'
+}, {
+  word: 'encourage',
+  freq: '9'
+}, {
+  word: 'equal',
+  freq: '9'
+}, {
+  word: 'everybody',
+  freq: '9'
+}, {
+  word: 'expand',
+  freq: '9'
+}, {
+  word: 'firm',
+  freq: '9'
+}, {
+  word: 'fix',
+  freq: '9'
+}, {
+  word: 'frequent',
+  freq: '9'
+}, {
+  word: 'highway',
+  freq: '9'
+}, {
+  word: 'hire',
+  freq: '9'
+}, {
+  word: 'initially',
+  freq: '9'
+}, {
+  word: 'internal',
+  freq: '9'
+}, {
+  word: 'join',
+  freq: '9'
+}, {
+  word: 'kill',
+  freq: '9'
+}, {
+  word: 'literally',
+  freq: '9'
+}, {
+  word: 'loss',
+  freq: '9'
+}, {
+  word: 'mainly',
+  freq: '9'
+}, {
+  word: 'membership',
+  freq: '9'
+}, {
+  word: 'merely',
+  freq: '9'
+}, {
+  word: 'minimum',
+  freq: '9'
+}, {
+  word: 'numerous',
+  freq: '9'
+}, {
+  word: 'path',
+  freq: '9'
+}, {
+  word: 'possession',
+  freq: '9'
+}, {
+  word: 'preparation',
+  freq: '9'
+}, {
+  word: 'progress',
+  freq: '9'
+}, {
+  word: 'project',
+  freq: '9'
+}, {
+  word: 'prove',
+  freq: '9'
+}, {
+  word: 'react',
+  freq: '9'
+}, {
+  word: 'recognize',
+  freq: '9'
+}, {
+  word: 'relax',
+  freq: '9'
+}, {
+  word: 'replace',
+  freq: '9'
+}, {
+  word: 'sea',
+  freq: '9'
+}, {
+  word: 'sensitive',
+  freq: '9'
+}, {
+  word: 'sit',
+  freq: '9'
+}, {
+  word: 'south',
+  freq: '9'
+}, {
+  word: 'status',
+  freq: '9'
+}, {
+  word: 'steak',
+  freq: '9'
+}, {
+  word: 'stuff',
+  freq: '9'
+}, {
+  word: 'sufficient',
+  freq: '9'
+}, {
+  word: 'tap',
+  freq: '9'
+}, {
+  word: 'ticket',
+  freq: '9'
+}, {
+  word: 'tour',
+  freq: '9'
+}, {
+  word: 'union',
+  freq: '9'
+}, {
+  word: 'unusual',
+  freq: '9'
+}, {
+  word: 'win',
+  freq: '9'
+}, {
+  word: 'agreement',
+  freq: '8'
+}, {
+  word: 'angle',
+  freq: '8'
+}, {
+  word: 'attack',
+  freq: '8'
+}, {
+  word: 'blue',
+  freq: '8'
+}, {
+  word: 'borrow',
+  freq: '8'
+}, {
+  word: 'breakfast',
+  freq: '8'
+}, {
+  word: 'cancer',
+  freq: '8'
+}, {
+  word: 'claim',
+  freq: '8'
+}, {
+  word: 'confidence',
+  freq: '8'
+}, {
+  word: 'consistent',
+  freq: '8'
+}, {
+  word: 'constant',
+  freq: '8'
+}, {
+  word: 'cultural',
+  freq: '8'
+}, {
+  word: 'currency',
+  freq: '8'
+}, {
+  word: 'daughter',
+  freq: '8'
+}, {
+  word: 'degree',
+  freq: '8'
+}, {
+  word: 'doctor',
+  freq: '8'
+}, {
+  word: 'dot',
+  freq: '8'
+}, {
+  word: 'drag',
+  freq: '8'
+}, {
+  word: 'dream',
+  freq: '8'
+}, {
+  word: 'drink',
+  freq: '8'
+}, {
+  word: 'duty',
+  freq: '8'
+}, {
+  word: 'earn',
+  freq: '8'
+}, {
+  word: 'emphasize',
+  freq: '8'
+}, {
+  word: 'employment',
+  freq: '8'
+}, {
+  word: 'enable',
+  freq: '8'
+}, {
+  word: 'engineering',
+  freq: '8'
+}, {
+  word: 'entry',
+  freq: '8'
+}, {
+  word: 'essay',
+  freq: '8'
+}, {
+  word: 'existing',
+  freq: '8'
+}, {
+  word: 'famous',
+  freq: '8'
+}, {
+  word: 'father',
+  freq: '8'
+}, {
+  word: 'fee',
+  freq: '8'
+}, {
+  word: 'finance',
+  freq: '8'
+}, {
+  word: 'gently',
+  freq: '8'
+}, {
+  word: 'guess',
+  freq: '8'
+}, {
+  word: 'hopefully',
+  freq: '8'
+}, {
+  word: 'hour',
+  freq: '8'
+}, {
+  word: 'interaction',
+  freq: '8'
+}, {
+  word: 'juice',
+  freq: '8'
+}, {
+  word: 'limit',
+  freq: '8'
+}, {
+  word: 'luck',
+  freq: '8'
+}, {
+  word: 'milk',
+  freq: '8'
+}, {
+  word: 'minor',
+  freq: '8'
+}, {
+  word: 'mixed',
+  freq: '8'
+}, {
+  word: 'mixture',
+  freq: '8'
+}, {
+  word: 'mouth',
+  freq: '8'
+}, {
+  word: 'nor',
+  freq: '8'
+}, {
+  word: 'operate',
+  freq: '8'
+}, {
+  word: 'originally',
+  freq: '8'
+}, {
+  word: 'peace',
+  freq: '8'
+}, {
+  word: 'pipe',
+  freq: '8'
+}, {
+  word: 'please',
+  freq: '8'
+}, {
+  word: 'preference',
+  freq: '8'
+}, {
+  word: 'previous',
+  freq: '8'
+}, {
+  word: 'pull',
+  freq: '8'
+}, {
+  word: 'pure',
+  freq: '8'
+}, {
+  word: 'raw',
+  freq: '8'
+}, {
+  word: 'reflect',
+  freq: '8'
+}, {
+  word: 'region',
+  freq: '8'
+}, {
+  word: 'republic',
+  freq: '8'
+}, {
+  word: 'roughly',
+  freq: '8'
+}, {
+  word: 'seat',
+  freq: '8'
+}, {
+  word: 'send',
+  freq: '8'
+}, {
+  word: 'significantly',
+  freq: '8'
+}, {
+  word: 'soft',
+  freq: '8'
+}, {
+  word: 'solid',
+  freq: '8'
+}, {
+  word: 'stable',
+  freq: '8'
+}, {
+  word: 'storm',
+  freq: '8'
+}, {
+  word: 'substance',
+  freq: '8'
+}, {
+  word: 'team',
+  freq: '8'
+}, {
+  word: 'tradition',
+  freq: '8'
+}, {
+  word: 'trick',
+  freq: '8'
+}, {
+  word: 'virus',
+  freq: '8'
+}, {
+  word: 'wear',
+  freq: '8'
+}, {
+  word: 'weird',
+  freq: '8'
+}, {
+  word: 'wonder',
+  freq: '8'
+}, {
+  word: 'actor',
+  freq: '7'
+}, {
+  word: 'afraid',
+  freq: '7'
+}, {
+  word: 'afternoon',
+  freq: '7'
+}, {
+  word: 'amazing',
+  freq: '7'
+}, {
+  word: 'annual',
+  freq: '7'
+}, {
+  word: 'anticipate',
+  freq: '7'
+}, {
+  word: 'assume',
+  freq: '7'
+}, {
+  word: 'bat',
+  freq: '7'
+}, {
+  word: 'beach',
+  freq: '7'
+}, {
+  word: 'blank',
+  freq: '7'
+}, {
+  word: 'busy',
+  freq: '7'
+}, {
+  word: 'catch',
+  freq: '7'
+}, {
+  word: 'chain',
+  freq: '7'
+}, {
+  word: 'classroom',
+  freq: '7'
+}, {
+  word: 'consideration',
+  freq: '7'
+}, {
+  word: 'count',
+  freq: '7'
+}, {
+  word: 'cream',
+  freq: '7'
+}, {
+  word: 'crew',
+  freq: '7'
+}, {
+  word: 'dead',
+  freq: '7'
+}, {
+  word: 'delivery',
+  freq: '7'
+}, {
+  word: 'detail',
+  freq: '7'
+}, {
+  word: 'detailed',
+  freq: '7'
+}, {
+  word: 'device',
+  freq: '7'
+}, {
+  word: 'difficulty',
+  freq: '7'
+}, {
+  word: 'doubt',
+  freq: '7'
+}, {
+  word: 'drama',
+  freq: '7'
+}, {
+  word: 'election',
+  freq: '7'
+}, {
+  word: 'engage',
+  freq: '7'
+}, {
+  word: 'engine',
+  freq: '7'
+}, {
+  word: 'enhance',
+  freq: '7'
+}, {
+  word: 'examine',
+  freq: '7'
+}, {
+  word: 'false',
+  freq: '7'
+}, {
+  word: 'feed',
+  freq: '7'
+}, {
+  word: 'football',
+  freq: '7'
+}, {
+  word: 'forever',
+  freq: '7'
+}, {
+  word: 'gold',
+  freq: '7'
+}, {
+  word: 'guidance',
+  freq: '7'
+}, {
+  word: 'hotel',
+  freq: '7'
+}, {
+  word: 'impress',
+  freq: '7'
+}, {
+  word: 'install',
+  freq: '7'
+}, {
+  word: 'interview',
+  freq: '7'
+}, {
+  word: 'kid',
+  freq: '7'
+}, {
+  word: 'mark',
+  freq: '7'
+}, {
+  word: 'match',
+  freq: '7'
+}, {
+  word: 'mission',
+  freq: '7'
+}, {
+  word: 'nobody',
+  freq: '7'
+}, {
+  word: 'obvious',
+  freq: '7'
+}, {
+  word: 'ourselves',
+  freq: '7'
+}, {
+  word: 'owner',
+  freq: '7'
+}, {
+  word: 'pain',
+  freq: '7'
+}, {
+  word: 'participate',
+  freq: '7'
+}, {
+  word: 'pleasure',
+  freq: '7'
+}, {
+  word: 'priority',
+  freq: '7'
+}, {
+  word: 'protection',
+  freq: '7'
+}, {
+  word: 'repeat',
+  freq: '7'
+}, {
+  word: 'round',
+  freq: '7'
+}, {
+  word: 'score',
+  freq: '7'
+}, {
+  word: 'screw',
+  freq: '7'
+}, {
+  word: 'seek',
+  freq: '7'
+}, {
+  word: 'sex',
+  freq: '7'
+}, {
+  word: 'sharp',
+  freq: '7'
+}, {
+  word: 'shop',
+  freq: '7'
+}, {
+  word: 'shower',
+  freq: '7'
+}, {
+  word: 'sing',
+  freq: '7'
+}, {
+  word: 'slide',
+  freq: '7'
+}, {
+  word: 'strip',
+  freq: '7'
+}, {
+  word: 'suggestion',
+  freq: '7'
+}, {
+  word: 'suit',
+  freq: '7'
+}, {
+  word: 'tension',
+  freq: '7'
+}, {
+  word: 'thick',
+  freq: '7'
+}, {
+  word: 'tone',
+  freq: '7'
+}, {
+  word: 'totally',
+  freq: '7'
+}, {
+  word: 'twice',
+  freq: '7'
+}, {
+  word: 'variation',
+  freq: '7'
+}, {
+  word: 'whereas',
+  freq: '7'
+}, {
+  word: 'window',
+  freq: '7'
+}, {
+  word: 'wise',
+  freq: '7'
+}, {
+  word: 'wish',
+  freq: '7'
+}, {
+  word: 'agent',
+  freq: '6'
+}, {
+  word: 'anxiety',
+  freq: '6'
+}, {
+  word: 'atmosphere',
+  freq: '6'
+}, {
+  word: 'awareness',
+  freq: '6'
+}, {
+  word: 'band',
+  freq: '6'
+}, {
+  word: 'bath',
+  freq: '6'
+}, {
+  word: 'block',
+  freq: '6'
+}, {
+  word: 'bone',
+  freq: '6'
+}, {
+  word: 'bread',
+  freq: '6'
+}, {
+  word: 'calendar',
+  freq: '6'
+}, {
+  word: 'candidate',
+  freq: '6'
+}, {
+  word: 'cap',
+  freq: '6'
+}, {
+  word: 'careful',
+  freq: '6'
+}, {
+  word: 'climate',
+  freq: '6'
+}, {
+  word: 'coat',
+  freq: '6'
+}, {
+  word: 'collect',
+  freq: '6'
+}, {
+  word: 'combine',
+  freq: '6'
+}, {
+  word: 'command',
+  freq: '6'
+}, {
+  word: 'comparison',
+  freq: '6'
+}, {
+  word: 'confusion',
+  freq: '6'
+}, {
+  word: 'construction',
+  freq: '6'
+}, {
+  word: 'contest',
+  freq: '6'
+}, {
+  word: 'corner',
+  freq: '6'
+}, {
+  word: 'court',
+  freq: '6'
+}, {
+  word: 'cup',
+  freq: '6'
+}, {
+  word: 'dig',
+  freq: '6'
+}, {
+  word: 'district',
+  freq: '6'
+}, {
+  word: 'divide',
+  freq: '6'
+}, {
+  word: 'door',
+  freq: '6'
+}, {
+  word: 'east',
+  freq: '6'
+}, {
+  word: 'elevator',
+  freq: '6'
+}, {
+  word: 'elsewhere',
+  freq: '6'
+}, {
+  word: 'emotion',
+  freq: '6'
+}, {
+  word: 'employee',
+  freq: '6'
+}, {
+  word: 'employer',
+  freq: '6'
+}, {
+  word: 'equivalent',
+  freq: '6'
+}, {
+  word: 'everywhere',
+  freq: '6'
+}, {
+  word: 'except',
+  freq: '6'
+}, {
+  word: 'finger',
+  freq: '6'
+}, {
+  word: 'garage',
+  freq: '6'
+}, {
+  word: 'guarantee',
+  freq: '6'
+}, {
+  word: 'guest',
+  freq: '6'
+}, {
+  word: 'hang',
+  freq: '6'
+}, {
+  word: 'height',
+  freq: '6'
+}, {
+  word: 'himself',
+  freq: '6'
+}, {
+  word: 'hole',
+  freq: '6'
+}, {
+  word: 'hook',
+  freq: '6'
+}, {
+  word: 'hunt',
+  freq: '6'
+}, {
+  word: 'implement',
+  freq: '6'
+}, {
+  word: 'initial',
+  freq: '6'
+}, {
+  word: 'intend',
+  freq: '6'
+}, {
+  word: 'introduce',
+  freq: '6'
+}, {
+  word: 'latter',
+  freq: '6'
+}, {
+  word: 'layer',
+  freq: '6'
+}, {
+  word: 'leadership',
+  freq: '6'
+}, {
+  word: 'lecture',
+  freq: '6'
+}, {
+  word: 'lie',
+  freq: '6'
+}, {
+  word: 'mall',
+  freq: '6'
+}, {
+  word: 'manager',
+  freq: '6'
+}, {
+  word: 'manner',
+  freq: '6'
+}, {
+  word: 'march',
+  freq: '6'
+}, {
+  word: 'married',
+  freq: '6'
+}, {
+  word: 'meeting',
+  freq: '6'
+}, {
+  word: 'mention',
+  freq: '6'
+}, {
+  word: 'narrow',
+  freq: '6'
+}, {
+  word: 'nearby',
+  freq: '6'
+}, {
+  word: 'neither',
+  freq: '6'
+}, {
+  word: 'nose',
+  freq: '6'
+}, {
+  word: 'obviously',
+  freq: '6'
+}, {
+  word: 'operation',
+  freq: '6'
+}, {
+  word: 'parking',
+  freq: '6'
+}, {
+  word: 'partner',
+  freq: '6'
+}, {
+  word: 'perfectly',
+  freq: '6'
+}, {
+  word: 'physically',
+  freq: '6'
+}, {
+  word: 'profile',
+  freq: '6'
+}, {
+  word: 'proud',
+  freq: '6'
+}, {
+  word: 'recording',
+  freq: '6'
+}, {
+  word: 'relate',
+  freq: '6'
+}, {
+  word: 'respect',
+  freq: '6'
+}, {
+  word: 'rice',
+  freq: '6'
+}, {
+  word: 'routine',
+  freq: '6'
+}, {
+  word: 'sample',
+  freq: '6'
+}, {
+  word: 'schedule',
+  freq: '6'
+}, {
+  word: 'settle',
+  freq: '6'
+}, {
+  word: 'smell',
+  freq: '6'
+}, {
+  word: 'somehow',
+  freq: '6'
+}, {
+  word: 'spiritual',
+  freq: '6'
+}, {
+  word: 'survey',
+  freq: '6'
+}, {
+  word: 'swimming',
+  freq: '6'
+}, {
+  word: 'telephone',
+  freq: '6'
+}, {
+  word: 'tie',
+  freq: '6'
+}, {
+  word: 'tip',
+  freq: '6'
+}, {
+  word: 'transportation',
+  freq: '6'
+}, {
+  word: 'unhappy',
+  freq: '6'
+}, {
+  word: 'wild',
+  freq: '6'
+}, {
+  word: 'winter',
+  freq: '6'
+}, {
+  word: 'absolutely',
+  freq: '5'
+}, {
+  word: 'acceptable',
+  freq: '5'
+}, {
+  word: 'adult',
+  freq: '5'
+}, {
+  word: 'aggressive',
+  freq: '5'
+}, {
+  word: 'airline',
+  freq: '5'
+}, {
+  word: 'apart',
+  freq: '5'
+}, {
+  word: 'assure',
+  freq: '5'
+}, {
+  word: 'attract',
+  freq: '5'
+}, {
+  word: 'bag',
+  freq: '5'
+}, {
+  word: 'battle',
+  freq: '5'
+}, {
+  word: 'bed',
+  freq: '5'
+}, {
+  word: 'bill',
+  freq: '5'
+}, {
+  word: 'boring',
+  freq: '5'
+}, {
+  word: 'bother',
+  freq: '5'
+}, {
+  word: 'brief',
+  freq: '5'
+}, {
+  word: 'cake',
+  freq: '5'
+}, {
+  word: 'charity',
+  freq: '5'
+}, {
+  word: 'code',
+  freq: '5'
+}, {
+  word: 'cousin',
+  freq: '5'
+}, {
+  word: 'crazy',
+  freq: '5'
+}, {
+  word: 'curve',
+  freq: '5'
+}, {
+  word: 'designer',
+  freq: '5'
+}, {
+  word: 'dimension',
+  freq: '5'
+}, {
+  word: 'disaster',
+  freq: '5'
+}, {
+  word: 'distinct',
+  freq: '5'
+}, {
+  word: 'distribute',
+  freq: '5'
+}, {
+  word: 'dress',
+  freq: '5'
+}, {
+  word: 'ease',
+  freq: '5'
+}, {
+  word: 'eastern',
+  freq: '5'
+}, {
+  word: 'editor',
+  freq: '5'
+}, {
+  word: 'efficiency',
+  freq: '5'
+}, {
+  word: 'emergency',
+  freq: '5'
+}, {
+  word: 'escape',
+  freq: '5'
+}, {
+  word: 'evening',
+  freq: '5'
+}, {
+  word: 'excitement',
+  freq: '5'
+}, {
+  word: 'expose',
+  freq: '5'
+}, {
+  word: 'extension',
+  freq: '5'
+}, {
+  word: 'extent',
+  freq: '5'
+}, {
+  word: 'farm',
+  freq: '5'
+}, {
+  word: 'feedback',
+  freq: '5'
+}, {
+  word: 'fight',
+  freq: '5'
+}, {
+  word: 'gap',
+  freq: '5'
+}, {
+  word: 'gather',
+  freq: '5'
+}, {
+  word: 'grade',
+  freq: '5'
+}, {
+  word: 'guitar',
+  freq: '5'
+}, {
+  word: 'hate',
+  freq: '5'
+}, {
+  word: 'holiday',
+  freq: '5'
+}, {
+  word: 'homework',
+  freq: '5'
+}, {
+  word: 'horror',
+  freq: '5'
+}, {
+  word: 'horse',
+  freq: '5'
+}, {
+  word: 'host',
+  freq: '5'
+}, {
+  word: 'husband',
+  freq: '5'
+}, {
+  word: 'leader',
+  freq: '5'
+}, {
+  word: 'loan',
+  freq: '5'
+}, {
+  word: 'logical',
+  freq: '5'
+}, {
+  word: 'mistake',
+  freq: '5'
+}, {
+  word: 'mom',
+  freq: '5'
+}, {
+  word: 'mountain',
+  freq: '5'
+}, {
+  word: 'nail',
+  freq: '5'
+}, {
+  word: 'noise',
+  freq: '5'
+}, {
+  word: 'none',
+  freq: '5'
+}, {
+  word: 'occasion',
+  freq: '5'
+}, {
+  word: 'outcome',
+  freq: '5'
+}, {
+  word: 'overcome',
+  freq: '5'
+}, {
+  word: 'owe',
+  freq: '5'
+}, {
+  word: 'package',
+  freq: '5'
+}, {
+  word: 'patient',
+  freq: '5'
+}, {
+  word: 'pause',
+  freq: '5'
+}, {
+  word: 'permission',
+  freq: '5'
+}, {
+  word: 'phrase',
+  freq: '5'
+}, {
+  word: 'presentation',
+  freq: '5'
+}, {
+  word: 'prior',
+  freq: '5'
+}, {
+  word: 'promotion',
+  freq: '5'
+}, {
+  word: 'proof',
+  freq: '5'
+}, {
+  word: 'race',
+  freq: '5'
+}, {
+  word: 'reasonable',
+  freq: '5'
+}, {
+  word: 'reflection',
+  freq: '5'
+}, {
+  word: 'refrigerator',
+  freq: '5'
+}, {
+  word: 'relief',
+  freq: '5'
+}, {
+  word: 'repair',
+  freq: '5'
+}, {
+  word: 'resolution',
+  freq: '5'
+}, {
+  word: 'revenue',
+  freq: '5'
+}, {
+  word: 'rough',
+  freq: '5'
+}, {
+  word: 'sad',
+  freq: '5'
+}, {
+  word: 'sand',
+  freq: '5'
+}, {
+  word: 'scratch',
+  freq: '5'
+}, {
+  word: 'sentence',
+  freq: '5'
+}, {
+  word: 'session',
+  freq: '5'
+}, {
+  word: 'shoulder',
+  freq: '5'
+}, {
+  word: 'sick',
+  freq: '5'
+}, {
+  word: 'singer',
+  freq: '5'
+}, {
+  word: 'smoke',
+  freq: '5'
+}, {
+  word: 'stomach',
+  freq: '5'
+}, {
+  word: 'strange',
+  freq: '5'
+}, {
+  word: 'strict',
+  freq: '5'
+}, {
+  word: 'strike',
+  freq: '5'
+}, {
+  word: 'string',
+  freq: '5'
+}, {
+  word: 'succeed',
+  freq: '5'
+}, {
+  word: 'successfully',
+  freq: '5'
+}, {
+  word: 'suddenly',
+  freq: '5'
+}, {
+  word: 'suffer',
+  freq: '5'
+}, {
+  word: 'surprised',
+  freq: '5'
+}, {
+  word: 'tennis',
+  freq: '5'
+}, {
+  word: 'throw',
+  freq: '5'
+}, {
+  word: 'tourist',
+  freq: '5'
+}, {
+  word: 'towel',
+  freq: '5'
+}, {
+  word: 'truly',
+  freq: '5'
+}, {
+  word: 'vacation',
+  freq: '5'
+}, {
+  word: 'virtually',
+  freq: '5'
+}, {
+  word: 'west',
+  freq: '5'
+}, {
+  word: 'wheel',
+  freq: '5'
+}, {
+  word: 'wine',
+  freq: '5'
+}, {
+  word: 'acquire',
+  freq: '4'
+}, {
+  word: 'adapt',
+  freq: '4'
+}, {
+  word: 'adjust',
+  freq: '4'
+}, {
+  word: 'administrative',
+  freq: '4'
+}, {
+  word: 'altogether',
+  freq: '4'
+}, {
+  word: 'anyway',
+  freq: '4'
+}, {
+  word: 'argue',
+  freq: '4'
+}, {
+  word: 'arise',
+  freq: '4'
+}, {
+  word: 'arm',
+  freq: '4'
+}, {
+  word: 'aside',
+  freq: '4'
+}, {
+  word: 'associate',
+  freq: '4'
+}, {
+  word: 'automatic',
+  freq: '4'
+}, {
+  word: 'automatically',
+  freq: '4'
+}, {
+  word: 'basket',
+  freq: '4'
+}, {
+  word: 'bet',
+  freq: '4'
+}, {
+  word: 'blow',
+  freq: '4'
+}, {
+  word: 'bonus',
+  freq: '4'
+}, {
+  word: 'border',
+  freq: '4'
+}, {
+  word: 'branch',
+  freq: '4'
+}, {
+  word: 'breast',
+  freq: '4'
+}, {
+  word: 'brother',
+  freq: '4'
+}, {
+  word: 'buddy',
+  freq: '4'
+}, {
+  word: 'bunch',
+  freq: '4'
+}, {
+  word: 'cabinet',
+  freq: '4'
+}, {
+  word: 'childhood',
+  freq: '4'
+}, {
+  word: 'chip',
+  freq: '4'
+}, {
+  word: 'church',
+  freq: '4'
+}, {
+  word: 'civil',
+  freq: '4'
+}, {
+  word: 'clothes',
+  freq: '4'
+}, {
+  word: 'coach',
+  freq: '4'
+}, {
+  word: 'coffee',
+  freq: '4'
+}, {
+  word: 'confirm',
+  freq: '4'
+}, {
+  word: 'cross',
+  freq: '4'
+}, {
+  word: 'deeply',
+  freq: '4'
+}, {
+  word: 'definitely',
+  freq: '4'
+}, {
+  word: 'deliberately',
+  freq: '4'
+}, {
+  word: 'dinner',
+  freq: '4'
+}, {
+  word: 'document',
+  freq: '4'
+}, {
+  word: 'draft',
+  freq: '4'
+}, {
+  word: 'drawing',
+  freq: '4'
+}, {
+  word: 'dust',
+  freq: '4'
+}, {
+  word: 'employ',
+  freq: '4'
+}, {
+  word: 'encouraging',
+  freq: '4'
+}, {
+  word: 'expert',
+  freq: '4'
+}, {
+  word: 'external',
+  freq: '4'
+}, {
+  word: 'floor',
+  freq: '4'
+}, {
+  word: 'former',
+  freq: '4'
+}, {
+  word: 'god',
+  freq: '4'
+}, {
+  word: 'golf',
+  freq: '4'
+}, {
+  word: 'habit',
+  freq: '4'
+}, {
+  word: 'hair',
+  freq: '4'
+}, {
+  word: 'hardly',
+  freq: '4'
+}, {
+  word: 'hearing',
+  freq: '4'
+}, {
+  word: 'hurt',
+  freq: '4'
+}, {
+  word: 'illegal',
+  freq: '4'
+}, {
+  word: 'incorporate',
+  freq: '4'
+}, {
+  word: 'initiative',
+  freq: '4'
+}, {
+  word: 'iron',
+  freq: '4'
+}, {
+  word: 'judge',
+  freq: '4'
+}, {
+  word: 'judgment',
+  freq: '4'
+}, {
+  word: 'justify',
+  freq: '4'
+}, {
+  word: 'knife',
+  freq: '4'
+}, {
+  word: 'lab',
+  freq: '4'
+}, {
+  word: 'landscape',
+  freq: '4'
+}, {
+  word: 'laugh',
+  freq: '4'
+}, {
+  word: 'lay',
+  freq: '4'
+}, {
+  word: 'league',
+  freq: '4'
+}, {
+  word: 'loud',
+  freq: '4'
+}, {
+  word: 'mail',
+  freq: '4'
+}, {
+  word: 'massive',
+  freq: '4'
+}, {
+  word: 'measurement',
+  freq: '4'
+}, {
+  word: 'mess',
+  freq: '4'
+}, {
+  word: 'mobile',
+  freq: '4'
+}, {
+  word: 'mode',
+  freq: '4'
+}, {
+  word: 'mud',
+  freq: '4'
+}, {
+  word: 'nasty',
+  freq: '4'
+}, {
+  word: 'native',
+  freq: '4'
+}, {
+  word: 'opening',
+  freq: '4'
+}, {
+  word: 'orange',
+  freq: '4'
+}, {
+  word: 'ordinary',
+  freq: '4'
+}, {
+  word: 'organize',
+  freq: '4'
+}, {
+  word: 'ought',
+  freq: '4'
+}, {
+  word: 'parent',
+  freq: '4'
+}, {
+  word: 'pattern',
+  freq: '4'
+}, {
+  word: 'pin',
+  freq: '4'
+}, {
+  word: 'poetry',
+  freq: '4'
+}, {
+  word: 'police',
+  freq: '4'
+}, {
+  word: 'pool',
+  freq: '4'
+}, {
+  word: 'possess',
+  freq: '4'
+}, {
+  word: 'possibility',
+  freq: '4'
+}, {
+  word: 'pound',
+  freq: '4'
+}, {
+  word: 'procedure',
+  freq: '4'
+}, {
+  word: 'queen',
+  freq: '4'
+}, {
+  word: 'ratio',
+  freq: '4'
+}, {
+  word: 'readily',
+  freq: '4'
+}, {
+  word: 'relation',
+  freq: '4'
+}, {
+  word: 'relieve',
+  freq: '4'
+}, {
+  word: 'request',
+  freq: '4'
+}, {
+  word: 'respond',
+  freq: '4'
+}, {
+  word: 'restaurant',
+  freq: '4'
+}, {
+  word: 'retain',
+  freq: '4'
+}, {
+  word: 'royal',
+  freq: '4'
+}, {
+  word: 'salary',
+  freq: '4'
+}, {
+  word: 'satisfaction',
+  freq: '4'
+}, {
+  word: 'sector',
+  freq: '4'
+}, {
+  word: 'senior',
+  freq: '4'
+}, {
+  word: 'shame',
+  freq: '4'
+}, {
+  word: 'shelter',
+  freq: '4'
+}, {
+  word: 'shoe',
+  freq: '4'
+}, {
+  word: 'shut',
+  freq: '4'
+}, {
+  word: 'signature',
+  freq: '4'
+}, {
+  word: 'significance',
+  freq: '4'
+}, {
+  word: 'silver',
+  freq: '4'
+}, {
+  word: 'somebody',
+  freq: '4'
+}, {
+  word: 'song',
+  freq: '4'
+}, {
+  word: 'southern',
+  freq: '4'
+}, {
+  word: 'split',
+  freq: '4'
+}, {
+  word: 'strain',
+  freq: '4'
+}, {
+  word: 'struggle',
+  freq: '4'
+}, {
+  word: 'super',
+  freq: '4'
+}, {
+  word: 'swim',
+  freq: '4'
+}, {
+  word: 'tackle',
+  freq: '4'
+}, {
+  word: 'tank',
+  freq: '4'
+}, {
+  word: 'terribly',
+  freq: '4'
+}, {
+  word: 'tight',
+  freq: '4'
+}, {
+  word: 'tooth',
+  freq: '4'
+}, {
+  word: 'town',
+  freq: '4'
+}, {
+  word: 'train',
+  freq: '4'
+}, {
+  word: 'trust',
+  freq: '4'
+}, {
+  word: 'unfair',
+  freq: '4'
+}, {
+  word: 'unfortunately',
+  freq: '4'
+}, {
+  word: 'upper',
+  freq: '4'
+}, {
+  word: 'vehicle',
+  freq: '4'
+}, {
+  word: 'visible',
+  freq: '4'
+}, {
+  word: 'volume',
+  freq: '4'
+}, {
+  word: 'wash',
+  freq: '4'
+}, {
+  word: 'waste',
+  freq: '4'
+}, {
+  word: 'wife',
+  freq: '4'
+}, {
+  word: 'yellow',
+  freq: '4'
+}, {
+  word: 'yours',
+  freq: '4'
+}, {
+  word: 'accident',
+  freq: '3'
+}, {
+  word: 'airport',
+  freq: '3'
+}, {
+  word: 'alive',
+  freq: '3'
+}, {
+  word: 'angry',
+  freq: '3'
+}, {
+  word: 'appointment',
+  freq: '3'
+}, {
+  word: 'arrival',
+  freq: '3'
+}, {
+  word: 'assist',
+  freq: '3'
+}, {
+  word: 'assumption',
+  freq: '3'
+}, {
+  word: 'bake',
+  freq: '3'
+}, {
+  word: 'bar',
+  freq: '3'
+}, {
+  word: 'baseball',
+  freq: '3'
+}, {
+  word: 'bell',
+  freq: '3'
+}, {
+  word: 'bike',
+  freq: '3'
+}, {
+  word: 'blame',
+  freq: '3'
+}, {
+  word: 'boy',
+  freq: '3'
+}, {
+  word: 'brick',
+  freq: '3'
+}, {
+  word: 'calculate',
+  freq: '3'
+}, {
+  word: 'chair',
+  freq: '3'
+}, {
+  word: 'chapter',
+  freq: '3'
+}, {
+  word: 'closet',
+  freq: '3'
+}, {
+  word: 'clue',
+  freq: '3'
+}, {
+  word: 'collar',
+  freq: '3'
+}, {
+  word: 'comment',
+  freq: '3'
+}, {
+  word: 'committee',
+  freq: '3'
+}, {
+  word: 'compete',
+  freq: '3'
+}, {
+  word: 'concerning',
+  freq: '3'
+}, {
+  word: 'conference',
+  freq: '3'
+}, {
+  word: 'consult',
+  freq: '3'
+}, {
+  word: 'conversation',
+  freq: '3'
+}, {
+  word: 'convert',
+  freq: '3'
+}, {
+  word: 'crash',
+  freq: '3'
+}, {
+  word: 'database',
+  freq: '3'
+}, {
+  word: 'deliver',
+  freq: '3'
+}, {
+  word: 'dependent',
+  freq: '3'
+}, {
+  word: 'desperate',
+  freq: '3'
+}, {
+  word: 'devil',
+  freq: '3'
+}, {
+  word: 'diet',
+  freq: '3'
+}, {
+  word: 'enthusiasm',
+  freq: '3'
+}, {
+  word: 'error',
+  freq: '3'
+}, {
+  word: 'exciting',
+  freq: '3'
+}, {
+  word: 'explanation',
+  freq: '3'
+}, {
+  word: 'extend',
+  freq: '3'
+}, {
+  word: 'farmer',
+  freq: '3'
+}, {
+  word: 'fear',
+  freq: '3'
+}, {
+  word: 'fold',
+  freq: '3'
+}, {
+  word: 'forth',
+  freq: '3'
+}, {
+  word: 'friendly',
+  freq: '3'
+}, {
+  word: 'fuel',
+  freq: '3'
+}, {
+  word: 'funny',
+  freq: '3'
+}, {
+  word: 'gate',
+  freq: '3'
+}, {
+  word: 'girl',
+  freq: '3'
+}, {
+  word: 'glove',
+  freq: '3'
+}, {
+  word: 'grab',
+  freq: '3'
+}, {
+  word: 'gross',
+  freq: '3'
+}, {
+  word: 'hall',
+  freq: '3'
+}, {
+  word: 'herself',
+  freq: '3'
+}, {
+  word: 'hide',
+  freq: '3'
+}, {
+  word: 'historian',
+  freq: '3'
+}, {
+  word: 'hospital',
+  freq: '3'
+}, {
+  word: 'ill',
+  freq: '3'
+}, {
+  word: 'injury',
+  freq: '3'
+}, {
+  word: 'instruction',
+  freq: '3'
+}, {
+  word: 'investigate',
+  freq: '3'
+}, {
+  word: 'jacket',
+  freq: '3'
+}, {
+  word: 'lucky',
+  freq: '3'
+}, {
+  word: 'lunch',
+  freq: '3'
+}, {
+  word: 'maintenance',
+  freq: '3'
+}, {
+  word: 'manufacturer',
+  freq: '3'
+}, {
+  word: 'meal',
+  freq: '3'
+}, {
+  word: 'miss',
+  freq: '3'
+}, {
+  word: 'monitor',
+  freq: '3'
+}, {
+  word: 'mortgage',
+  freq: '3'
+}, {
+  word: 'negotiate',
+  freq: '3'
+}, {
+  word: 'nurse',
+  freq: '3'
+}, {
+  word: 'pace',
+  freq: '3'
+}, {
+  word: 'panic',
+  freq: '3'
+}, {
+  word: 'peak',
+  freq: '3'
+}, {
+  word: 'perception',
+  freq: '3'
+}, {
+  word: 'permit',
+  freq: '3'
+}, {
+  word: 'pie',
+  freq: '3'
+}, {
+  word: 'plane',
+  freq: '3'
+}, {
+  word: 'poem',
+  freq: '3'
+}, {
+  word: 'presence',
+  freq: '3'
+}, {
+  word: 'proposal',
+  freq: '3'
+}, {
+  word: 'provided',
+  freq: '3'
+}, {
+  word: 'qualify',
+  freq: '3'
+}, {
+  word: 'quote',
+  freq: '3'
+}, {
+  word: 'realistic',
+  freq: '3'
+}, {
+  word: 'reception',
+  freq: '3'
+}, {
+  word: 'recover',
+  freq: '3'
+}, {
+  word: 'replacement',
+  freq: '3'
+}, {
+  word: 'resolve',
+  freq: '3'
+}, {
+  word: 'retire',
+  freq: '3'
+}, {
+  word: 'revolution',
+  freq: '3'
+}, {
+  word: 'reward',
+  freq: '3'
+}, {
+  word: 'rid',
+  freq: '3'
+}, {
+  word: 'river',
+  freq: '3'
+}, {
+  word: 'roll',
+  freq: '3'
+}, {
+  word: 'row',
+  freq: '3'
+}, {
+  word: 'sandwich',
+  freq: '3'
+}, {
+  word: 'shock',
+  freq: '3'
+}, {
+  word: 'sink',
+  freq: '3'
+}, {
+  word: 'slip',
+  freq: '3'
+}, {
+  word: 'son',
+  freq: '3'
+}, {
+  word: 'sorry',
+  freq: '3'
+}, {
+  word: 'spare',
+  freq: '3'
+}, {
+  word: 'speech',
+  freq: '3'
+}, {
+  word: 'spite',
+  freq: '3'
+}, {
+  word: 'spray',
+  freq: '3'
+}, {
+  word: 'surprise',
+  freq: '3'
+}, {
+  word: 'suspect',
+  freq: '3'
+}, {
+  word: 'sweet',
+  freq: '3'
+}, {
+  word: 'swing',
+  freq: '3'
+}, {
+  word: 'tea',
+  freq: '3'
+}, {
+  word: 'till',
+  freq: '3'
+}, {
+  word: 'transition',
+  freq: '3'
+}, {
+  word: 'twist',
+  freq: '3'
+}, {
+  word: 'ugly',
+  freq: '3'
+}, {
+  word: 'unlikely',
+  freq: '3'
+}, {
+  word: 'upstairs',
+  freq: '3'
+}, {
+  word: 'usual',
+  freq: '3'
+}, {
+  word: 'village',
+  freq: '3'
+}, {
+  word: 'warning',
+  freq: '3'
+}, {
+  word: 'weekend',
+  freq: '3'
+}, {
+  word: 'weigh',
+  freq: '3'
+}, {
+  word: 'welcome',
+  freq: '3'
+}, {
+  word: 'winner',
+  freq: '3'
+}, {
+  word: 'worker',
+  freq: '3'
+}, {
+  word: 'writer',
+  freq: '3'
+}, {
+  word: 'yard',
+  freq: '3'
+}, {
+  word: 'abroad',
+  freq: '2'
+}, {
+  word: 'alarm',
+  freq: '2'
+}, {
+  word: 'anxious',
+  freq: '2'
+}, {
+  word: 'arrive',
+  freq: '2'
+}, {
+  word: 'assistance',
+  freq: '2'
+}, {
+  word: 'attach',
+  freq: '2'
+}, {
+  word: 'behave',
+  freq: '2'
+}, {
+  word: 'bend',
+  freq: '2'
+}, {
+  word: 'bicycle',
+  freq: '2'
+}, {
+  word: 'bite',
+  freq: '2'
+}, {
+  word: 'blind',
+  freq: '2'
+}, {
+  word: 'bottle',
+  freq: '2'
+}, {
+  word: 'brave',
+  freq: '2'
+}, {
+  word: 'breath',
+  freq: '2'
+}, {
+  word: 'briefly',
+  freq: '2'
+}, {
+  word: 'buyer',
+  freq: '2'
+}, {
+  word: 'cable',
+  freq: '2'
+}, {
+  word: 'calm',
+  freq: '2'
+}, {
+  word: 'candle',
+  freq: '2'
+}, {
+  word: 'celebrate',
+  freq: '2'
+}, {
+  word: 'chest',
+  freq: '2'
+}, {
+  word: 'chocolate',
+  freq: '2'
+}, {
+  word: 'clerk',
+  freq: '2'
+}, {
+  word: 'cloud',
+  freq: '2'
+}, {
+  word: 'comprehensive',
+  freq: '2'
+}, {
+  word: 'concentrate',
+  freq: '2'
+}, {
+  word: 'concert',
+  freq: '2'
+}, {
+  word: 'conclusion',
+  freq: '2'
+}, {
+  word: 'contribution',
+  freq: '2'
+}, {
+  word: 'convince',
+  freq: '2'
+}, {
+  word: 'cookie',
+  freq: '2'
+}, {
+  word: 'counter',
+  freq: '2'
+}, {
+  word: 'courage',
+  freq: '2'
+}, {
+  word: 'curious',
+  freq: '2'
+}, {
+  word: 'dad',
+  freq: '2'
+}, {
+  word: 'desk',
+  freq: '2'
+}, {
+  word: 'dirty',
+  freq: '2'
+}, {
+  word: 'disagree',
+  freq: '2'
+}, {
+  word: 'downtown',
+  freq: '2'
+}, {
+  word: 'drawer',
+  freq: '2'
+}, {
+  word: 'establish',
+  freq: '2'
+}, {
+  word: 'establishment',
+  freq: '2'
+}, {
+  word: 'estimate',
+  freq: '2'
+}, {
+  word: 'examination',
+  freq: '2'
+}, {
+  word: 'flower',
+  freq: '2'
+}, {
+  word: 'garbage',
+  freq: '2'
+}, {
+  word: 'grand',
+  freq: '2'
+}, {
+  word: 'grandfather',
+  freq: '2'
+}, {
+  word: 'grocery',
+  freq: '2'
+}, {
+  word: 'harm',
+  freq: '2'
+}, {
+  word: 'honest',
+  freq: '2'
+}, {
+  word: 'honey',
+  freq: '2'
+}, {
+  word: 'ignore',
+  freq: '2'
+}, {
+  word: 'imply',
+  freq: '2'
+}, {
+  word: 'impression',
+  freq: '2'
+}, {
+  word: 'impressive',
+  freq: '2'
+}, {
+  word: 'improvement',
+  freq: '2'
+}, {
+  word: 'independence',
+  freq: '2'
+}, {
+  word: 'informal',
+  freq: '2'
+}, {
+  word: 'inner',
+  freq: '2'
+}, {
+  word: 'insect',
+  freq: '2'
+}, {
+  word: 'insist',
+  freq: '2'
+}, {
+  word: 'inspection',
+  freq: '2'
+}, {
+  word: 'inspector',
+  freq: '2'
+}, {
+  word: 'king',
+  freq: '2'
+}, {
+  word: 'knee',
+  freq: '2'
+}, {
+  word: 'ladder',
+  freq: '2'
+}, {
+  word: 'lawyer',
+  freq: '2'
+}, {
+  word: 'leather',
+  freq: '2'
+}, {
+  word: 'load',
+  freq: '2'
+}, {
+  word: 'loose',
+  freq: '2'
+}, {
+  word: 'male',
+  freq: '2'
+}, {
+  word: 'menu',
+  freq: '2'
+}, {
+  word: 'mine',
+  freq: '2'
+}, {
+  word: 'mirror',
+  freq: '2'
+}, {
+  word: 'moreover',
+  freq: '2'
+}, {
+  word: 'neck',
+  freq: '2'
+}, {
+  word: 'penalty',
+  freq: '2'
+}, {
+  word: 'pension',
+  freq: '2'
+}, {
+  word: 'piano',
+  freq: '2'
+}, {
+  word: 'plate',
+  freq: '2'
+}, {
+  word: 'pleasant',
+  freq: '2'
+}, {
+  word: 'pleased',
+  freq: '2'
+}, {
+  word: 'potato',
+  freq: '2'
+}, {
+  word: 'profession',
+  freq: '2'
+}, {
+  word: 'professor',
+  freq: '2'
+}, {
+  word: 'prompt',
+  freq: '2'
+}, {
+  word: 'proposed',
+  freq: '2'
+}, {
+  word: 'purple',
+  freq: '2'
+}, {
+  word: 'pursue',
+  freq: '2'
+}, {
+  word: 'quantity',
+  freq: '2'
+}, {
+  word: 'quiet',
+  freq: '2'
+}, {
+  word: 'reaction',
+  freq: '2'
+}, {
+  word: 'refuse',
+  freq: '2'
+}, {
+  word: 'regret',
+  freq: '2'
+}, {
+  word: 'remaining',
+  freq: '2'
+}, {
+  word: 'requirement',
+  freq: '2'
+}, {
+  word: 'reveal',
+  freq: '2'
+}, {
+  word: 'ruin',
+  freq: '2'
+}, {
+  word: 'rush',
+  freq: '2'
+}, {
+  word: 'salad',
+  freq: '2'
+}, {
+  word: 'sexual',
+  freq: '2'
+}, {
+  word: 'shake',
+  freq: '2'
+}, {
+  word: 'shift',
+  freq: '2'
+}, {
+  word: 'shine',
+  freq: '2'
+}, {
+  word: 'ship',
+  freq: '2'
+}, {
+  word: 'sister',
+  freq: '2'
+}, {
+  word: 'skirt',
+  freq: '2'
+}, {
+  word: 'slice',
+  freq: '2'
+}, {
+  word: 'snow',
+  freq: '2'
+}, {
+  word: 'specialist',
+  freq: '2'
+}, {
+  word: 'specify',
+  freq: '2'
+}, {
+  word: 'steal',
+  freq: '2'
+}, {
+  word: 'stroke',
+  freq: '2'
+}, {
+  word: 'strongly',
+  freq: '2'
+}, {
+  word: 'suck',
+  freq: '2'
+}, {
+  word: 'sudden',
+  freq: '2'
+}, {
+  word: 'supermarket',
+  freq: '2'
+}, {
+  word: 'surround',
+  freq: '2'
+}, {
+  word: 'switch',
+  freq: '2'
+}, {
+  word: 'terrible',
+  freq: '2'
+}, {
+  word: 'tired',
+  freq: '2'
+}, {
+  word: 'tongue',
+  freq: '2'
+}, {
+  word: 'trash',
+  freq: '2'
+}, {
+  word: 'tune',
+  freq: '2'
+}, {
+  word: 'unable',
+  freq: '2'
+}, {
+  word: 'warn',
+  freq: '2'
+}, {
+  word: 'weak',
+  freq: '2'
+}, {
+  word: 'weakness',
+  freq: '2'
+}, {
+  word: 'wedding',
+  freq: '2'
+}, {
+  word: 'wooden',
+  freq: '2'
+}, {
+  word: 'worried',
+  freq: '2'
+}, {
+  word: 'yeah',
+  freq: '2'
+}, {
+  word: 'zone',
+  freq: '2'
+}, {
+  word: 'accuse',
+  freq: '1'
+}, {
+  word: 'admire',
+  freq: '1'
+}, {
+  word: 'admit',
+  freq: '1'
+}, {
+  word: 'adopt',
+  freq: '1'
+}, {
+  word: 'affair',
+  freq: '1'
+}, {
+  word: 'ambition',
+  freq: '1'
+}, {
+  word: 'analyst',
+  freq: '1'
+}, {
+  word: 'anger',
+  freq: '1'
+}, {
+  word: 'announce',
+  freq: '1'
+}, {
+  word: 'anybody',
+  freq: '1'
+}, {
+  word: 'apologize',
+  freq: '1'
+}, {
+  word: 'apple',
+  freq: '1'
+}, {
+  word: 'approve',
+  freq: '1'
+}, {
+  word: 'asleep',
+  freq: '1'
+}, {
+  word: 'assignment',
+  freq: '1'
+}, {
+  word: 'assistant',
+  freq: '1'
+}, {
+  word: 'attend',
+  freq: '1'
+}, {
+  word: 'award',
+  freq: '1'
+}, {
+  word: 'bathroom',
+  freq: '1'
+}, {
+  word: 'bear',
+  freq: '1'
+}, {
+  word: 'bedroom',
+  freq: '1'
+}, {
+  word: 'beer',
+  freq: '1'
+}, {
+  word: 'belong',
+  freq: '1'
+}, {
+  word: 'bid',
+  freq: '1'
+}, {
+  word: 'birthday',
+  freq: '1'
+}, {
+  word: 'bitter',
+  freq: '1'
+}, {
+  word: 'boot',
+  freq: '1'
+}, {
+  word: 'brilliant',
+  freq: '1'
+}, {
+  word: 'bug',
+  freq: '1'
+}, {
+  word: 'camp',
+  freq: '1'
+}, {
+  word: 'candy',
+  freq: '1'
+}, {
+  word: 'carpet',
+  freq: '1'
+}, {
+  word: 'cat',
+  freq: '1'
+}, {
+  word: 'celebration',
+  freq: '1'
+}, {
+  word: 'champion',
+  freq: '1'
+}, {
+  word: 'championship',
+  freq: '1'
+}, {
+  word: 'channel',
+  freq: '1'
+}, {
+  word: 'cheek',
+  freq: '1'
+}, {
+  word: 'client',
+  freq: '1'
+}, {
+  word: 'clock',
+  freq: '1'
+}, {
+  word: 'comfort',
+  freq: '1'
+}, {
+  word: 'commit',
+  freq: '1'
+}, {
+  word: 'confident',
+  freq: '1'
+}, {
+  word: 'conscious',
+  freq: '1'
+}, {
+  word: 'consequence',
+  freq: '1'
+}, {
+  word: 'cow',
+  freq: '1'
+}, {
+  word: 'crack',
+  freq: '1'
+}, {
+  word: 'criticize',
+  freq: '1'
+}, {
+  word: 'dare',
+  freq: '1'
+}, {
+  word: 'dear',
+  freq: '1'
+}, {
+  word: 'decent',
+  freq: '1'
+}, {
+  word: 'delay',
+  freq: '1'
+}, {
+  word: 'departure',
+  freq: '1'
+}, {
+  word: 'deserve',
+  freq: '1'
+}, {
+  word: 'destroy',
+  freq: '1'
+}, {
+  word: 'diamond',
+  freq: '1'
+}, {
+  word: 'dirt',
+  freq: '1'
+}, {
+  word: 'disappointed',
+  freq: '1'
+}, {
+  word: 'drunk',
+  freq: '1'
+}, {
+  word: 'ear',
+  freq: '1'
+}, {
+  word: 'embarrassed',
+  freq: '1'
+}, {
+  word: 'empty',
+  freq: '1'
+}, {
+  word: 'engineer',
+  freq: '1'
+}, {
+  word: 'entrance',
+  freq: '1'
+}, {
+  word: 'fault',
+  freq: '1'
+}, {
+  word: 'female',
+  freq: '1'
+}, {
+  word: 'fortune',
+  freq: '1'
+}, {
+  word: 'friendship',
+  freq: '1'
+}, {
+  word: 'funeral',
+  freq: '1'
+}, {
+  word: 'gene',
+  freq: '1'
+}, {
+  word: 'girlfriend',
+  freq: '1'
+}, {
+  word: 'grass',
+  freq: '1'
+}, {
+  word: 'guilty',
+  freq: '1'
+}, {
+  word: 'guy',
+  freq: '1'
+}, {
+  word: 'hat',
+  freq: '1'
+}, {
+  word: 'hell',
+  freq: '1'
+}, {
+  word: 'hesitate',
+  freq: '1'
+}, {
+  word: 'highlight',
+  freq: '1'
+}, {
+  word: 'honestly',
+  freq: '1'
+}, {
+  word: 'hurry',
+  freq: '1'
+}, {
+  word: 'illustrate',
+  freq: '1'
+}, {
+  word: 'incident',
+  freq: '1'
+}, {
+  word: 'indication',
+  freq: '1'
+}, {
+  word: 'inevitable',
+  freq: '1'
+}, {
+  word: 'inform',
+  freq: '1'
+}, {
+  word: 'intention',
+  freq: '1'
+}, {
+  word: 'invite',
+  freq: '1'
+}, {
+  word: 'island',
+  freq: '1'
+}, {
+  word: 'joke',
+  freq: '1'
+}, {
+  word: 'jury',
+  freq: '1'
+}, {
+  word: 'kiss',
+  freq: '1'
+}, {
+  word: 'lady',
+  freq: '1'
+}, {
+  word: 'leg',
+  freq: '1'
+}, {
+  word: 'lip',
+  freq: '1'
+}, {
+  word: 'lonely',
+  freq: '1'
+}, {
+  word: 'mad',
+  freq: '1'
+}, {
+  word: 'manufacturing',
+  freq: '1'
+}, {
+  word: 'marry',
+  freq: '1'
+}, {
+  word: 'mate',
+  freq: '1'
+}, {
+  word: 'midnight',
+  freq: '1'
+}, {
+  word: 'motor',
+  freq: '1'
+}, {
+  word: 'neat',
+  freq: '1'
+}, {
+  word: 'negotiation',
+  freq: '1'
+}, {
+  word: 'nerve',
+  freq: '1'
+}, {
+  word: 'nervous',
+  freq: '1'
+}, {
+  word: 'nowhere',
+  freq: '1'
+}, {
+  word: 'obligation',
+  freq: '1'
+}, {
+  word: 'odd',
+  freq: '1'
+}, {
+  word: 'ok',
+  freq: '1'
+}, {
+  word: 'passage',
+  freq: '1'
+}, {
+  word: 'passenger',
+  freq: '1'
+}, {
+  word: 'pen',
+  freq: '1'
+}, {
+  word: 'persuade',
+  freq: '1'
+}, {
+  word: 'pizza',
+  freq: '1'
+}, {
+  word: 'platform',
+  freq: '1'
+}, {
+  word: 'poet',
+  freq: '1'
+}, {
+  word: 'pollution',
+  freq: '1'
+}, {
+  word: 'pop',
+  freq: '1'
+}, {
+  word: 'pour',
+  freq: '1'
+}, {
+  word: 'pray',
+  freq: '1'
+}, {
+  word: 'pretend',
+  freq: '1'
+}, {
+  word: 'previously',
+  freq: '1'
+}, {
+  word: 'pride',
+  freq: '1'
+}, {
+  word: 'priest',
+  freq: '1'
+}, {
+  word: 'prize',
+  freq: '1'
+}, {
+  word: 'promise',
+  freq: '1'
+}, {
+  word: 'propose',
+  freq: '1'
+}, {
+  word: 'punch',
+  freq: '1'
+}, {
+  word: 'quit',
+  freq: '1'
+}, {
+  word: 'recognition',
+  freq: '1'
+}, {
+  word: 'remarkable',
+  freq: '1'
+}, {
+  word: 'remind',
+  freq: '1'
+}, {
+  word: 'reply',
+  freq: '1'
+}, {
+  word: 'representative',
+  freq: '1'
+}, {
+  word: 'reputation',
+  freq: '1'
+}, {
+  word: 'resident',
+  freq: '1'
+}, {
+  word: 'resist',
+  freq: '1'
+}, {
+  word: 'resort',
+  freq: '1'
+}, {
+  word: 'ring',
+  freq: '1'
+}, {
+  word: 'rip',
+  freq: '1'
+}, {
+  word: 'roof',
+  freq: '1'
+}, {
+  word: 'rope',
+  freq: '1'
+}, {
+  word: 'rub',
+  freq: '1'
+}, {
+  word: 'sail',
+  freq: '1'
+}, {
+  word: 'scheme',
+  freq: '1'
+}, {
+  word: 'script',
+  freq: '1'
+}, {
+  word: 'shall',
+  freq: '1'
+}, {
+  word: 'shirt',
+  freq: '1'
+}, {
+  word: 'silly',
+  freq: '1'
+}, {
+  word: 'sir',
+  freq: '1'
+}, {
+  word: 'slight',
+  freq: '1'
+}, {
+  word: 'smart',
+  freq: '1'
+}, {
+  word: 'smile',
+  freq: '1'
+}, {
+  word: 'sock',
+  freq: '1'
+}, {
+  word: 'speaker',
+  freq: '1'
+}, {
+  word: 'spell',
+  freq: '1'
+}, {
+  word: 'station',
+  freq: '1'
+}, {
+  word: 'stranger',
+  freq: '1'
+}, {
+  word: 'stretch',
+  freq: '1'
+}, {
+  word: 'stupid',
+  freq: '1'
+}, {
+  word: 'submit',
+  freq: '1'
+}, {
+  word: 'substantial',
+  freq: '1'
+}, {
+  word: 'suppose',
+  freq: '1'
+}, {
+  word: 'surgery',
+  freq: '1'
+}, {
+  word: 'suspicious',
+  freq: '1'
+}, {
+  word: 'sympathy',
+  freq: '1'
+}, {
+  word: 'tale',
+  freq: '1'
+}, {
+  word: 'tall',
+  freq: '1'
+}, {
+  word: 'tear',
+  freq: '1'
+}, {
+  word: 'temporary',
+  freq: '1'
+}, {
+  word: 'throat',
+  freq: '1'
+}, {
+  word: 'tiny',
+  freq: '1'
+}, {
+  word: 'toe',
+  freq: '1'
+}, {
+  word: 'tomorrow',
+  freq: '1'
+}, {
+  word: 'tower',
+  freq: '1'
+}, {
+  word: 'trainer',
+  freq: '1'
+}, {
+  word: 'translate',
+  freq: '1'
+}, {
+  word: 'truck',
+  freq: '1'
+}, {
+  word: 'uncle',
+  freq: '1'
+}, {
+  word: 'wake',
+  freq: '1'
+}, {
+  word: 'weekly',
+  freq: '1'
+}, {
+  word: 'whoever',
+  freq: '1'
+}, {
+  word: 'witness',
+  freq: '1'
+}, {
+  word: 'wrap',
+  freq: '1'
+}, {
+  word: 'yesterday',
+  freq: '1'
+}, {
+  word: 'youth',
+  freq: '1'
+}]

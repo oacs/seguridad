@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import {dictionary} from '../dictionary';
 @Component({
   selector: 'app-fuerza-bruta',
   templateUrl: './fuerza-bruta.component.html',
@@ -7,9 +7,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FuerzaBrutaComponent implements OnInit {
 
-  constructor() { }
+  public texto: string;
+  public keyword: string;
+  public cifrado =  [];
+  public alfabeto: Map<string, string>;
+  public diccionario = [];
+
+  constructor() {
+    this.diccionario = dictionary;
+  }
 
   ngOnInit() {
+  }
+
+  public fuerzaBruta( keyword?: string) {
+    
   }
 
 }
