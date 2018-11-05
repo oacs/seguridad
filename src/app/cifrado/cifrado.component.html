@@ -1,49 +1,57 @@
 <div class="container">
-  <h1 class="col-sm-12">Bienvenido a cifrado monoalfabetico</h1>
-  <form class="col-sm-12">
-    <div class="alphabet-block form-group col-xs-2 col-sm-4">
-      <label for="alphabet">Alfabeto</label>
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
-      <input class="ofset-2 col-sm-4 " type="text" class="form-control">
+  <h1 class="col-12">Bienvenido a cifrado monoalfabetico</h1>
+  <div class="row">
+
+    <label for="alphabet">Alfabeto</label>
+    <div class="alphabet-block form-group col-12 ">  
+      <div class=" flex-row d-flex" >
+        <div class="col-1" *ngFor="let item of ABC | slice: 0: 13 ; index as i">
+          <div >{{item}}</div>
+        </div>
+      </div> 
+      <div class=" flex-row d-flex" >
+          <div class="col-1" *ngFor="let item of abcdario | slice: 0: 13 ; index as i">
+              <input class="form-control col-8 offset-2" type="text" [value]="item">
+          </div>
+      </div> 
+
+      <div class=" flex-row d-flex" >
+          <div class="col-1" *ngFor="let item of ABC | slice: 13; index as i">
+            <div>{{item}}</div>
+          </div>
+      </div> 
+
+      <div class=" flex-row d-flex" >
+          <div class="col-1" *ngFor="let item of abcdario | slice: 13; index as i">
+              <input class="form-control col-8 offset-2" type="text"  [value]="item">
+          </div>
+      </div> 
     </div>
 
-    <div class="right-block form-group col-xs-2 col-sm-8">
-      <div class="plaintext-block form-group col-sm-12">
+    <div class="right-block form-group row col-12">
+
+      <div class="plaintext-block col-5">
         <label for="plain-text">Texto</label>
-        <input type="text" class="form-control" id="plaintext-input">
-      </div>
-      <div class="result-block form-group col-sm-12">
-        <label for="result">Resultado</label>
-        <input type="text" class="form-control" id="result-input">
+        <input type="text" [formControl]="texto" class="form-control" id="plaintext-input">
       </div>
 
-      <button type="submit" class="btn btn-success">Cifrar</button>
-      <button type="submit" class="btn btn-success">Decifrar</button>
+
+      
+
+      <div class="result-block col-5 offset-2">
+        <label for="result">Resultado</label>
+        <input type="text" class="form-control" [formControl]="textoCifrado" id="result-input">
+      </div>
+
+ 
+          <button type="button" class="btn btn-success col-4 offset-1" (click)="cifrar()" >Cifrar</button>
+          <button type="button" class="btn btn-success col-4 offset-2" (click)="descifrar()" >Decifrar</button>
+      
+
+      
     </div>
 
 
-  </form>
+  </div>
 </div>
 <!--texto plano, 24 alfabeto, resultado , botones.-->
